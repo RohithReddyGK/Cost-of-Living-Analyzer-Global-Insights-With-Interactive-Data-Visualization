@@ -1,0 +1,1091 @@
+{
+    "0": {
+        "country_name": "Switzerland",
+        "coi": "101.1",
+        "ri": "46.5",
+        "coipri": "74.9",
+        "gi": "109.1",
+        "rpi": "97.0",
+        "lppi": "158.7"
+    },
+    "1": {
+        "country_name": "Bahamas",
+        "coi": "85.0",
+        "ri": "36.7",
+        "coipri": "61.8",
+        "gi": "81.6",
+        "rpi": "83.3",
+        "lppi": "54.6"
+    },
+    "2": {
+        "country_name": "Iceland",
+        "coi": "83.0",
+        "ri": "39.2",
+        "coipri": "62.0",
+        "gi": "88.4",
+        "rpi": "86.8",
+        "lppi": "120.3"
+    },
+    "3": {
+        "country_name": "Singapore",
+        "coi": "76.7",
+        "ri": "67.2",
+        "coipri": "72.1",
+        "gi": "74.6",
+        "rpi": "50.4",
+        "lppi": "111.1"
+    },
+    "4": {
+        "country_name": "Barbados",
+        "coi": "76.6",
+        "ri": "19.0",
+        "coipri": "48.9",
+        "gi": "80.8",
+        "rpi": "69.4",
+        "lppi": "43.5"
+    },
+    "5": {
+        "country_name": "Norway",
+        "coi": "76.0",
+        "ri": "26.2",
+        "coipri": "52.1",
+        "gi": "79.0",
+        "rpi": "73.5",
+        "lppi": "114.7"
+    },
+    "6": {
+        "country_name": "Denmark",
+        "coi": "72.3",
+        "ri": "26.4",
+        "coipri": "50.2",
+        "gi": "64.8",
+        "rpi": "81.3",
+        "lppi": "127.2"
+    },
+    "7": {
+        "country_name": "Hong Kong (China)",
+        "coi": "70.8",
+        "ri": "59.4",
+        "coipri": "65.3",
+        "gi": "84.6",
+        "rpi": "46.2",
+        "lppi": "109.3"
+    },
+    "8": {
+        "country_name": "United States",
+        "coi": "70.4",
+        "ri": "41.7",
+        "coipri": "56.6",
+        "gi": "75.0",
+        "rpi": "67.2",
+        "lppi": "142.3"
+    },
+    "9": {
+        "country_name": "Australia",
+        "coi": "70.2",
+        "ri": "33.4",
+        "coipri": "52.5",
+        "gi": "77.3",
+        "rpi": "62.5",
+        "lppi": "127.4"
+    },
+    "10": {
+        "country_name": "Austria",
+        "coi": "65.1",
+        "ri": "22.5",
+        "coipri": "44.7",
+        "gi": "66.4",
+        "rpi": "59.3",
+        "lppi": "102.4"
+    },
+    "11": {
+        "country_name": "Canada",
+        "coi": "64.8",
+        "ri": "33.2",
+        "coipri": "49.6",
+        "gi": "71.2",
+        "rpi": "61.7",
+        "lppi": "103.7"
+    },
+    "12": {
+        "country_name": "New Zealand",
+        "coi": "64.6",
+        "ri": "25.9",
+        "coipri": "46.0",
+        "gi": "71.9",
+        "rpi": "57.1",
+        "lppi": "121.0"
+    },
+    "13": {
+        "country_name": "Ireland",
+        "coi": "64.4",
+        "ri": "42.3",
+        "coipri": "53.8",
+        "gi": "59.3",
+        "rpi": "65.3",
+        "lppi": "101.1"
+    },
+    "14": {
+        "country_name": "France",
+        "coi": "63.7",
+        "ri": "21.0",
+        "coipri": "43.2",
+        "gi": "69.5",
+        "rpi": "56.3",
+        "lppi": "102.4"
+    },
+    "15": {
+        "country_name": "Puerto Rico",
+        "coi": "63.3",
+        "ri": "19.5",
+        "coipri": "42.3",
+        "gi": "64.1",
+        "rpi": "53.1",
+        "lppi": "103.5"
+    },
+    "16": {
+        "country_name": "Finland",
+        "coi": "63.2",
+        "ri": "19.7",
+        "coipri": "42.4",
+        "gi": "63.0",
+        "rpi": "63.6",
+        "lppi": "118.0"
+    },
+    "17": {
+        "country_name": "Netherlands",
+        "coi": "63.1",
+        "ri": "33.5",
+        "coipri": "48.9",
+        "gi": "59.9",
+        "rpi": "61.2",
+        "lppi": "124.9"
+    },
+    "18": {
+        "country_name": "Israel",
+        "coi": "62.7",
+        "ri": "27.1",
+        "coipri": "45.6",
+        "gi": "59.6",
+        "rpi": "68.0",
+        "lppi": "99.4"
+    },
+    "19": {
+        "country_name": "Luxembourg",
+        "coi": "62.4",
+        "ri": "40.5",
+        "coipri": "51.9",
+        "gi": "64.1",
+        "rpi": "68.7",
+        "lppi": "182.5"
+    },
+    "20": {
+        "country_name": "Germany",
+        "coi": "62.2",
+        "ri": "24.4",
+        "coipri": "44.0",
+        "gi": "60.8",
+        "rpi": "52.8",
+        "lppi": "120.2"
+    },
+    "21": {
+        "country_name": "United Kingdom",
+        "coi": "62.0",
+        "ri": "31.1",
+        "coipri": "47.1",
+        "gi": "56.9",
+        "rpi": "62.7",
+        "lppi": "115.2"
+    },
+    "22": {
+        "country_name": "Belgium",
+        "coi": "61.1",
+        "ri": "20.1",
+        "coipri": "41.4",
+        "gi": "57.5",
+        "rpi": "66.0",
+        "lppi": "109.8"
+    },
+    "23": {
+        "country_name": "South Korea",
+        "coi": "60.1",
+        "ri": "16.0",
+        "coipri": "38.9",
+        "gi": "81.4",
+        "rpi": "31.4",
+        "lppi": "109.4"
+    },
+    "24": {
+        "country_name": "Sweden",
+        "coi": "59.3",
+        "ri": "20.9",
+        "coipri": "40.9",
+        "gi": "60.8",
+        "rpi": "54.7",
+        "lppi": "122.6"
+    },
+    "25": {
+        "country_name": "Italy",
+        "coi": "56.2",
+        "ri": "19.2",
+        "coipri": "38.5",
+        "gi": "57.0",
+        "rpi": "53.3",
+        "lppi": "78.3"
+    },
+    "26": {
+        "country_name": "United Arab Emirates",
+        "coi": "55.8",
+        "ri": "41.3",
+        "coipri": "48.9",
+        "gi": "45.3",
+        "rpi": "49.2",
+        "lppi": "127.9"
+    },
+    "27": {
+        "country_name": "Cyprus",
+        "coi": "54.7",
+        "ri": "24.8",
+        "coipri": "40.4",
+        "gi": "49.6",
+        "rpi": "53.2",
+        "lppi": "71.4"
+    },
+    "28": {
+        "country_name": "Uruguay",
+        "coi": "54.1",
+        "ri": "13.8",
+        "coipri": "34.8",
+        "gi": "52.1",
+        "rpi": "50.2",
+        "lppi": "56.3"
+    },
+    "29": {
+        "country_name": "Jamaica",
+        "coi": "53.9",
+        "ri": "14.1",
+        "coipri": "34.8",
+        "gi": "62.0",
+        "rpi": "38.8",
+        "lppi": "32.7"
+    },
+    "30": {
+        "country_name": "Malta",
+        "coi": "52.8",
+        "ri": "24.2",
+        "coipri": "39.1",
+        "gi": "50.6",
+        "rpi": "56.2",
+        "lppi": "68.1"
+    },
+    "31": {
+        "country_name": "Trinidad And Tobago",
+        "coi": "52.6",
+        "ri": "13.1",
+        "coipri": "33.7",
+        "gi": "55.3",
+        "rpi": "43.9",
+        "lppi": "43.7"
+    },
+    "32": {
+        "country_name": "Costa Rica",
+        "coi": "52.3",
+        "ri": "16.7",
+        "coipri": "35.2",
+        "gi": "56.1",
+        "rpi": "43.1",
+        "lppi": "46.2"
+    },
+    "33": {
+        "country_name": "Bahrain",
+        "coi": "52.3",
+        "ri": "20.5",
+        "coipri": "37.0",
+        "gi": "46.9",
+        "rpi": "44.7",
+        "lppi": "105.0"
+    },
+    "34": {
+        "country_name": "Greece",
+        "coi": "52.0",
+        "ri": "12.9",
+        "coipri": "33.2",
+        "gi": "48.4",
+        "rpi": "51.3",
+        "lppi": "53.0"
+    },
+    "35": {
+        "country_name": "Estonia",
+        "coi": "52.0",
+        "ri": "15.0",
+        "coipri": "34.2",
+        "gi": "46.4",
+        "rpi": "50.6",
+        "lppi": "80.4"
+    },
+    "36": {
+        "country_name": "Qatar",
+        "coi": "51.3",
+        "ri": "36.1",
+        "coipri": "44.0",
+        "gi": "43.9",
+        "rpi": "47.2",
+        "lppi": "161.1"
+    },
+    "37": {
+        "country_name": "Slovenia",
+        "coi": "49.9",
+        "ri": "18.7",
+        "coipri": "34.9",
+        "gi": "49.0",
+        "rpi": "43.4",
+        "lppi": "80.9"
+    },
+    "38": {
+        "country_name": "Latvia",
+        "coi": "49.1",
+        "ri": "11.2",
+        "coipri": "30.9",
+        "gi": "42.8",
+        "rpi": "44.9",
+        "lppi": "66.9"
+    },
+    "39": {
+        "country_name": "Spain",
+        "coi": "47.3",
+        "ri": "22.9",
+        "coipri": "35.6",
+        "gi": "46.0",
+        "rpi": "44.1",
+        "lppi": "92.1"
+    },
+    "40": {
+        "country_name": "Lithuania",
+        "coi": "47.1",
+        "ri": "15.6",
+        "coipri": "31.9",
+        "gi": "44.2",
+        "rpi": "43.5",
+        "lppi": "75.5"
+    },
+    "41": {
+        "country_name": "Slovakia",
+        "coi": "46.7",
+        "ri": "14.8",
+        "coipri": "31.4",
+        "gi": "46.7",
+        "rpi": "34.5",
+        "lppi": "68.3"
+    },
+    "42": {
+        "country_name": "Cuba",
+        "coi": "46.7",
+        "ri": "11.8",
+        "coipri": "29.9",
+        "gi": "43.0",
+        "rpi": "26.0",
+        "lppi": "2.3"
+    },
+    "43": {
+        "country_name": "Czech Republic",
+        "coi": "46.6",
+        "ri": "18.8",
+        "coipri": "33.3",
+        "gi": "44.4",
+        "rpi": "34.1",
+        "lppi": "84.0"
+    },
+    "44": {
+        "country_name": "Panama",
+        "coi": "46.4",
+        "ri": "20.1",
+        "coipri": "33.8",
+        "gi": "48.3",
+        "rpi": "42.2",
+        "lppi": "42.2"
+    },
+    "45": {
+        "country_name": "Japan",
+        "coi": "46.1",
+        "ri": "13.4",
+        "coipri": "30.4",
+        "gi": "53.7",
+        "rpi": "27.8",
+        "lppi": "117.0"
+    },
+    "46": {
+        "country_name": "Croatia",
+        "coi": "45.5",
+        "ri": "13.8",
+        "coipri": "30.3",
+        "gi": "43.5",
+        "rpi": "42.2",
+        "lppi": "75.0"
+    },
+    "47": {
+        "country_name": "Saudi Arabia",
+        "coi": "45.3",
+        "ri": "11.3",
+        "coipri": "29.0",
+        "gi": "41.6",
+        "rpi": "30.9",
+        "lppi": "134.9"
+    },
+    "48": {
+        "country_name": "Taiwan",
+        "coi": "45.2",
+        "ri": "13.1",
+        "coipri": "29.8",
+        "gi": "60.1",
+        "rpi": "23.0",
+        "lppi": "95.1"
+    },
+    "49": {
+        "country_name": "Portugal",
+        "coi": "45.1",
+        "ri": "24.0",
+        "coipri": "35.0",
+        "gi": "43.8",
+        "rpi": "36.9",
+        "lppi": "56.9"
+    },
+    "50": {
+        "country_name": "Oman",
+        "coi": "42.4",
+        "ri": "12.2",
+        "coipri": "27.9",
+        "gi": "39.9",
+        "rpi": "33.1",
+        "lppi": "139.8"
+    },
+    "51": {
+        "country_name": "Kuwait",
+        "coi": "42.1",
+        "ri": "22.6",
+        "coipri": "32.7",
+        "gi": "34.5",
+        "rpi": "36.4",
+        "lppi": "161.8"
+    },
+    "52": {
+        "country_name": "Albania",
+        "coi": "42.1",
+        "ri": "10.6",
+        "coipri": "27.0",
+        "gi": "42.0",
+        "rpi": "35.7",
+        "lppi": "39.9"
+    },
+    "53": {
+        "country_name": "Lebanon",
+        "coi": "41.8",
+        "ri": "13.4",
+        "coipri": "28.1",
+        "gi": "32.2",
+        "rpi": "37.1",
+        "lppi": "25.4"
+    },
+    "54": {
+        "country_name": "Hungary",
+        "coi": "41.7",
+        "ri": "11.3",
+        "coipri": "27.1",
+        "gi": "39.8",
+        "rpi": "37.0",
+        "lppi": "63.4"
+    },
+    "55": {
+        "country_name": "Palestine",
+        "coi": "41.6",
+        "ri": "8.0",
+        "coipri": "25.5",
+        "gi": "40.7",
+        "rpi": "27.4",
+        "lppi": "46.1"
+    },
+    "56": {
+        "country_name": "Jordan",
+        "coi": "41.2",
+        "ri": "7.2",
+        "coipri": "24.9",
+        "gi": "37.1",
+        "rpi": "34.8",
+        "lppi": "45.5"
+    },
+    "57": {
+        "country_name": "Armenia",
+        "coi": "41.0",
+        "ri": "19.0",
+        "coipri": "30.5",
+        "gi": "36.0",
+        "rpi": "38.9",
+        "lppi": "38.5"
+    },
+    "58": {
+        "country_name": "Poland",
+        "coi": "40.8",
+        "ri": "17.1",
+        "coipri": "29.5",
+        "gi": "36.8",
+        "rpi": "35.0",
+        "lppi": "85.8"
+    },
+    "59": {
+        "country_name": "Mexico",
+        "coi": "40.2",
+        "ri": "15.5",
+        "coipri": "28.4",
+        "gi": "43.4",
+        "rpi": "35.7",
+        "lppi": "45.4"
+    },
+    "60": {
+        "country_name": "El Salvador",
+        "coi": "39.5",
+        "ri": "14.6",
+        "coipri": "27.6",
+        "gi": "43.4",
+        "rpi": "29.6",
+        "lppi": "31.9"
+    },
+    "61": {
+        "country_name": "Montenegro",
+        "coi": "39.4",
+        "ri": "15.8",
+        "coipri": "28.1",
+        "gi": "36.7",
+        "rpi": "36.3",
+        "lppi": "52.9"
+    },
+    "62": {
+        "country_name": "Chile",
+        "coi": "39.1",
+        "ri": "11.1",
+        "coipri": "25.7",
+        "gi": "41.6",
+        "rpi": "34.8",
+        "lppi": "45.1"
+    },
+    "63": {
+        "country_name": "Guatemala",
+        "coi": "38.8",
+        "ri": "12.6",
+        "coipri": "26.3",
+        "gi": "41.8",
+        "rpi": "31.1",
+        "lppi": "34.5"
+    },
+    "64": {
+        "country_name": "Venezuela",
+        "coi": "38.3",
+        "ri": "5.8",
+        "coipri": "22.7",
+        "gi": "39.5",
+        "rpi": "37.7",
+        "lppi": "14.7"
+    },
+    "65": {
+        "country_name": "Bulgaria",
+        "coi": "38.3",
+        "ri": "10.3",
+        "coipri": "24.9",
+        "gi": "38.2",
+        "rpi": "34.7",
+        "lppi": "68.4"
+    },
+    "66": {
+        "country_name": "Dominican Republic",
+        "coi": "37.9",
+        "ri": "10.6",
+        "coipri": "24.8",
+        "gi": "37.6",
+        "rpi": "33.1",
+        "lppi": "28.7"
+    },
+    "67": {
+        "country_name": "Serbia",
+        "coi": "37.7",
+        "ri": "12.4",
+        "coipri": "25.6",
+        "gi": "36.0",
+        "rpi": "31.2",
+        "lppi": "50.2"
+    },
+    "68": {
+        "country_name": "Romania",
+        "coi": "37.5",
+        "ri": "9.9",
+        "coipri": "24.2",
+        "gi": "36.6",
+        "rpi": "35.5",
+        "lppi": "63.8"
+    },
+    "69": {
+        "country_name": "Turkey",
+        "coi": "37.4",
+        "ri": "13.2",
+        "coipri": "25.8",
+        "gi": "37.6",
+        "rpi": "30.7",
+        "lppi": "49.0"
+    },
+    "70": {
+        "country_name": "Cambodia",
+        "coi": "37.3",
+        "ri": "9.6",
+        "coipri": "24.0",
+        "gi": "43.5",
+        "rpi": "22.7",
+        "lppi": "23.9"
+    },
+    "71": {
+        "country_name": "Cameroon",
+        "coi": "37.3",
+        "ri": "16.9",
+        "coipri": "27.5",
+        "gi": "34.6",
+        "rpi": "35.3",
+        "lppi": "10.5"
+    },
+    "72": {
+        "country_name": "Zimbabwe",
+        "coi": "37.2",
+        "ri": "10.0",
+        "coipri": "24.1",
+        "gi": "35.5",
+        "rpi": "26.7",
+        "lppi": "26.1"
+    },
+    "73": {
+        "country_name": "Mauritius",
+        "coi": "37.1",
+        "ri": "10.0",
+        "coipri": "24.1",
+        "gi": "40.7",
+        "rpi": "26.5",
+        "lppi": "43.2"
+    },
+    "74": {
+        "country_name": "Fiji",
+        "coi": "35.4",
+        "ri": "15.3",
+        "coipri": "25.8",
+        "gi": "43.7",
+        "rpi": "28.4",
+        "lppi": "68.0"
+    },
+    "75": {
+        "country_name": "Bosnia And Herzegovina",
+        "coi": "35.0",
+        "ri": "6.2",
+        "coipri": "21.2",
+        "gi": "34.5",
+        "rpi": "22.4",
+        "lppi": "56.9"
+    },
+    "76": {
+        "country_name": "Sri Lanka",
+        "coi": "34.6",
+        "ri": "5.6",
+        "coipri": "20.7",
+        "gi": "49.3",
+        "rpi": "18.5",
+        "lppi": "17.5"
+    },
+    "77": {
+        "country_name": "South Africa",
+        "coi": "34.5",
+        "ri": "11.5",
+        "coipri": "23.5",
+        "gi": "29.7",
+        "rpi": "29.5",
+        "lppi": "102.8"
+    },
+    "78": {
+        "country_name": "Thailand",
+        "coi": "34.1",
+        "ri": "11.2",
+        "coipri": "23.1",
+        "gi": "40.5",
+        "rpi": "18.3",
+        "lppi": "40.8"
+    },
+    "79": {
+        "country_name": "Moldova",
+        "coi": "34.0",
+        "ri": "10.1",
+        "coipri": "22.5",
+        "gi": "31.6",
+        "rpi": "26.6",
+        "lppi": "46.6"
+    },
+    "80": {
+        "country_name": "Georgia",
+        "coi": "33.4",
+        "ri": "13.7",
+        "coipri": "23.9",
+        "gi": "33.3",
+        "rpi": "31.6",
+        "lppi": "35.3"
+    },
+    "81": {
+        "country_name": "North Macedonia",
+        "coi": "33.0",
+        "ri": "6.5",
+        "coipri": "20.3",
+        "gi": "32.1",
+        "rpi": "22.1",
+        "lppi": "51.0"
+    },
+    "82": {
+        "country_name": "Ecuador",
+        "coi": "32.6",
+        "ri": "8.6",
+        "coipri": "21.1",
+        "gi": "34.9",
+        "rpi": "24.5",
+        "lppi": "41.6"
+    },
+    "83": {
+        "country_name": "Kazakhstan",
+        "coi": "31.7",
+        "ri": "12.3",
+        "coipri": "22.4",
+        "gi": "32.2",
+        "rpi": "28.7",
+        "lppi": "44.7"
+    },
+    "84": {
+        "country_name": "China",
+        "coi": "31.7",
+        "ri": "12.3",
+        "coipri": "22.4",
+        "gi": "36.8",
+        "rpi": "20.6",
+        "lppi": "73.3"
+    },
+    "85": {
+        "country_name": "Nigeria",
+        "coi": "31.4",
+        "ri": "22.1",
+        "coipri": "27.0",
+        "gi": "37.5",
+        "rpi": "20.6",
+        "lppi": "11.0"
+    },
+    "86": {
+        "country_name": "Azerbaijan",
+        "coi": "31.2",
+        "ri": "8.7",
+        "coipri": "20.4",
+        "gi": "29.0",
+        "rpi": "31.8",
+        "lppi": "37.2"
+    },
+    "87": {
+        "country_name": "Philippines",
+        "coi": "31.0",
+        "ri": "7.1",
+        "coipri": "19.6",
+        "gi": "35.0",
+        "rpi": "16.8",
+        "lppi": "33.3"
+    },
+    "88": {
+        "country_name": "Russia",
+        "coi": "31.0",
+        "ri": "10.0",
+        "coipri": "20.9",
+        "gi": "28.8",
+        "rpi": "28.0",
+        "lppi": "50.6"
+    },
+    "89": {
+        "country_name": "Ghana",
+        "coi": "30.9",
+        "ri": "10.2",
+        "coipri": "21.0",
+        "gi": "33.9",
+        "rpi": "26.9",
+        "lppi": "18.4"
+    },
+    "90": {
+        "country_name": "Brazil",
+        "coi": "30.2",
+        "ri": "7.9",
+        "coipri": "19.5",
+        "gi": "29.5",
+        "rpi": "22.6",
+        "lppi": "37.2"
+    },
+    "91": {
+        "country_name": "Kenya",
+        "coi": "30.2",
+        "ri": "8.5",
+        "coipri": "19.8",
+        "gi": "31.0",
+        "rpi": "22.1",
+        "lppi": "34.2"
+    },
+    "92": {
+        "country_name": "Botswana",
+        "coi": "30.1",
+        "ri": "6.1",
+        "coipri": "18.5",
+        "gi": "30.0",
+        "rpi": "22.5",
+        "lppi": "64.4"
+    },
+    "93": {
+        "country_name": "Malaysia",
+        "coi": "30.0",
+        "ri": "7.7",
+        "coipri": "19.3",
+        "gi": "36.3",
+        "rpi": "18.9",
+        "lppi": "79.9"
+    },
+    "94": {
+        "country_name": "Peru",
+        "coi": "30.0",
+        "ri": "9.6",
+        "coipri": "20.2",
+        "gi": "31.5",
+        "rpi": "21.3",
+        "lppi": "34.8"
+    },
+    "95": {
+        "country_name": "Morocco",
+        "coi": "29.5",
+        "ri": "7.4",
+        "coipri": "18.9",
+        "gi": "29.8",
+        "rpi": "20.7",
+        "lppi": "38.6"
+    },
+    "96": {
+        "country_name": "Kosovo (Disputed Territory)",
+        "coi": "29.5",
+        "ri": "7.7",
+        "coipri": "19.0",
+        "gi": "29.4",
+        "rpi": "20.6",
+        "lppi": "46.7"
+    },
+    "97": {
+        "country_name": "Argentina",
+        "coi": "29.4",
+        "ri": "7.6",
+        "coipri": "18.9",
+        "gi": "29.7",
+        "rpi": "24.8",
+        "lppi": "41.5"
+    },
+    "98": {
+        "country_name": "Iraq",
+        "coi": "29.3",
+        "ri": "7.6",
+        "coipri": "18.9",
+        "gi": "28.2",
+        "rpi": "20.9",
+        "lppi": "50.4"
+    },
+    "99": {
+        "country_name": "Uganda",
+        "coi": "29.1",
+        "ri": "7.7",
+        "coipri": "18.8",
+        "gi": "29.3",
+        "rpi": "21.6",
+        "lppi": "17.8"
+    },
+    "100": {
+        "country_name": "Algeria",
+        "coi": "28.9",
+        "ri": "3.8",
+        "coipri": "16.9",
+        "gi": "36.8",
+        "rpi": "14.0",
+        "lppi": "29.9"
+    },
+    "101": {
+        "country_name": "Colombia",
+        "coi": "28.8",
+        "ri": "8.6",
+        "coipri": "19.1",
+        "gi": "30.3",
+        "rpi": "20.5",
+        "lppi": "33.7"
+    },
+    "102": {
+        "country_name": "Vietnam",
+        "coi": "28.7",
+        "ri": "9.0",
+        "coipri": "19.2",
+        "gi": "33.9",
+        "rpi": "14.8",
+        "lppi": "40.5"
+    },
+    "103": {
+        "country_name": "Tunisia",
+        "coi": "28.1",
+        "ri": "4.7",
+        "coipri": "16.9",
+        "gi": "31.4",
+        "rpi": "15.0",
+        "lppi": "32.2"
+    },
+    "104": {
+        "country_name": "Bolivia",
+        "coi": "27.6",
+        "ri": "7.5",
+        "coipri": "18.0",
+        "gi": "27.0",
+        "rpi": "19.4",
+        "lppi": "37.9"
+    },
+    "105": {
+        "country_name": "Kyrgyzstan",
+        "coi": "27.6",
+        "ri": "10.7",
+        "coipri": "19.5",
+        "gi": "28.2",
+        "rpi": "20.2",
+        "lppi": "30.7"
+    },
+    "106": {
+        "country_name": "Indonesia",
+        "coi": "26.7",
+        "ri": "7.7",
+        "coipri": "17.6",
+        "gi": "33.4",
+        "rpi": "13.5",
+        "lppi": "31.7"
+    },
+    "107": {
+        "country_name": "Iran",
+        "coi": "26.4",
+        "ri": "8.5",
+        "coipri": "17.8",
+        "gi": "22.0",
+        "rpi": "16.3",
+        "lppi": "26.0"
+    },
+    "108": {
+        "country_name": "Uzbekistan",
+        "coi": "26.4",
+        "ri": "11.2",
+        "coipri": "19.1",
+        "gi": "28.4",
+        "rpi": "18.6",
+        "lppi": "39.3"
+    },
+    "109": {
+        "country_name": "Belarus",
+        "coi": "26.4",
+        "ri": "8.3",
+        "coipri": "17.7",
+        "gi": "25.4",
+        "rpi": "24.9",
+        "lppi": "51.8"
+    },
+    "110": {
+        "country_name": "Ukraine",
+        "coi": "25.9",
+        "ri": "7.6",
+        "coipri": "17.1",
+        "gi": "25.4",
+        "rpi": "20.7",
+        "lppi": "39.5"
+    },
+    "111": {
+        "country_name": "Nepal",
+        "coi": "25.5",
+        "ri": "3.5",
+        "coipri": "15.0",
+        "gi": "25.6",
+        "rpi": "16.2",
+        "lppi": "25.4"
+    },
+    "112": {
+        "country_name": "Paraguay",
+        "coi": "25.4",
+        "ri": "9.1",
+        "coipri": "17.6",
+        "gi": "24.0",
+        "rpi": "17.6",
+        "lppi": "34.6"
+    },
+    "113": {
+        "country_name": "Madagascar",
+        "coi": "24.5",
+        "ri": "7.8",
+        "coipri": "16.5",
+        "gi": "24.1",
+        "rpi": "14.3",
+        "lppi": "15.6"
+    },
+    "114": {
+        "country_name": "Syria",
+        "coi": "24.0",
+        "ri": "3.7",
+        "coipri": "14.2",
+        "gi": "24.5",
+        "rpi": "15.3",
+        "lppi": "5.5"
+    },
+    "115": {
+        "country_name": "Tanzania",
+        "coi": "23.8",
+        "ri": "8.4",
+        "coipri": "16.4",
+        "gi": "25.4",
+        "rpi": "16.5",
+        "lppi": "25.9"
+    },
+    "116": {
+        "country_name": "Bangladesh",
+        "coi": "22.5",
+        "ri": "2.4",
+        "coipri": "12.8",
+        "gi": "25.7",
+        "rpi": "12.8",
+        "lppi": "33.1"
+    },
+    "117": {
+        "country_name": "India",
+        "coi": "21.2",
+        "ri": "5.6",
+        "coipri": "13.7",
+        "gi": "23.8",
+        "rpi": "15.1",
+        "lppi": "82.6"
+    },
+    "118": {
+        "country_name": "Egypt",
+        "coi": "21.0",
+        "ri": "3.7",
+        "coipri": "12.7",
+        "gi": "21.2",
+        "rpi": "16.2",
+        "lppi": "20.0"
+    },
+    "119": {
+        "country_name": "Libya",
+        "coi": "20.4",
+        "ri": "4.3",
+        "coipri": "12.7",
+        "gi": "22.2",
+        "rpi": "15.2",
+        "lppi": "42.0"
+    },
+    "120": {
+        "country_name": "Pakistan",
+        "coi": "18.8",
+        "ri": "2.8",
+        "coipri": "11.1",
+        "gi": "17.5",
+        "rpi": "12.9",
+        "lppi": "29.1"
+    }
+}

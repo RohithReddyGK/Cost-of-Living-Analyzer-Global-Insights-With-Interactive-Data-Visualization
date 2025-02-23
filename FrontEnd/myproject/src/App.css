@@ -1,0 +1,40 @@
+body,html{
+  margin:0;
+  padding:0;
+  font-family:'Nunito',sans-serif;
+}
+
+.app-container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  min-height:100vh;
+  background-image:url('https://media.fab.com/image_previews/gallery_images/e9b3ef7a-39da-46c6-92e4-33da0a28f5e8/5da01093-b0e6-48c7-8ac6-b84e27fafd5c.jpg');
+  background-position:center;
+  background-repeat:no-repeat;
+  height:100vh;
+  background-attachment:fixed;
+  padding:20px;
+}
+
+/* Style for the heading */
+.heading {
+  font-size: 36px; /* Adjust font size */
+  font-weight: bold; /* Make the text bold */
+  text-align: center; /* Center the text */
+  color: #2196f3; /* Color for the heading */
+  font-family: 'Nunito', sans-serif; /* Apply the Nunito font */
+  position: fixed; /* Fix the heading at the top */
+  top: 0; /* Position at the top of the screen */
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Correct the centering using transform */
+  padding: 20px 0; /* Add some vertical padding */
+  width: 97%; /* Make the width full to cover the page */
+  background-color: black; /* White background to make it readable */
+  z-index: 10; /* Ensure it stays on top of other content */
+}
+
+/* Add some margin to the page content to prevent overlap with the heading */
+.app-container {
+  margin-top: 80px; /* Give space at the top so content doesn't overlap with the heading */
+}

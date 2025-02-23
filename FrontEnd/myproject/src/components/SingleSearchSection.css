@@ -1,0 +1,59 @@
+.single-search-container{
+    width:400px;
+    background-color:#f4f4f4;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+    text-align:center;
+    margin:20px auto;
+}
+
+.search-section{
+    display:flex;
+    gap:10px;
+    align-items:center;
+}
+
+.search-button{
+    padding:12px 20px;
+    background-color:#007bff;
+    color:white;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+}
+
+.search-button:hover{
+    background-color:#0056b3;
+}
+
+.or-section{
+    margin-top:20px;
+    color:#555;
+}
+
+.add-button{
+    /* App.css or src/index.css */
+    /* Style for the + button */
+    font-size: 36px; /* Size of the "+" icon */
+    background-color: #64b5f6; /* Green background */
+    color: white; /* White text color */
+    border: none; /* Remove border */
+    border-radius: 50%; /* Round button */
+    padding: 5px 15px; /* Add some padding for button size */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transition for color change and scaling */
+    display: inline-block; /* Ensures button is inline with other elements */
+}
+  
+  /* Hover effect for the + button */
+.add-button:hover {
+    background-color: #2196f3; /* Darker green on hover */
+    transform: scale(1.1); /* Slightly enlarge on hover */
+}
+  
+  /* Focus effect to improve accessibility */
+.add-button:focus {
+    outline: none; /* Remove default focus outline */
+    box-shadow: 0 0 0 4px rgba(72, 156, 66, 0.6); /* Green glow on focus */
+}

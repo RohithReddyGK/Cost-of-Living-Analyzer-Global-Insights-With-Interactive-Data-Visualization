@@ -1,0 +1,44 @@
+/* Grid setup */
+.grid {
+    display: grid;
+    grid-template-columns: 1fr; /* 1 column by default */
+    gap: 1.5rem; /* Space between grid items */
+    width: 100%; /* Full width */
+    max-width: 1200px; /* Optional: restrict max width on larger screens */
+    margin: 0 auto; /* Center grid horizontally */
+}
+
+@media (min-width: 700px) {
+    .grid {
+        grid-template-columns: repeat(3, 1fr); /* 3 equal columns on medium and larger screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .grid {
+        grid-template-columns: 1fr; /* 1 column on very small screens */
+    }
+}
+
+/* Card setup */
+.card {
+    background-color: white; /* Card background color */
+    padding: 16px; /* Padding inside the card */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    border-radius: 8px; /* Rounded corners */
+    height: 300px; /* Fixed height for the card */
+    display: flex;
+    justify-content: center; /* Center the charts horizontally */
+    align-items: center; /* Center the charts vertically */
+}
+
+/* Ensure chart canvas fills the card container */
+.card canvas {
+    width: 100%;
+    height: 100%;
+}
+
+/* Margin-top class for additional spacing */
+.mt-6 {
+    margin-top: 1.5rem; /* Adds margin at the top (mt-6 equivalent in Tailwind) */
+}
