@@ -101,10 +101,10 @@ Data is processed using **BeautifulSoup & Pandas**, ensuring accuracy before vis
 
 ## 👥 Contributors
 This project was developed by:
-- **Rohith Reddy G.K** *(1AM22IS090)*
-- **Sayed Jahangir Ali** *(1AM22IS096)*
-- **Shashank Upadhya** *(1AM22IS099)*
-- **Sheik Arshad Ibrahim** *(1AM22IS100)*
+- **Shashank Upadhya**
+- **Sheik Arshad Ibrahim**
+- **Sayed Jahangir Ali**
+- **Rohith Reddy.G.K**
 
 Under the guidance of **Dr. R. Amutha**, Professor & HOD, Department of Information Science and Engineering, AMC Engineering College.
 
