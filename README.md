@@ -86,8 +86,14 @@ Data is processed using **BeautifulSoup & Pandas**, ensuring accuracy before vis
 
 ---
 
-## 🖼️ Screenshots (Add Later)
-*(Include key UI screenshots here)*
+## 🖼️ Screenshots
+![Output 1](https://github.com/user-attachments/assets/df5b8240-c0a9-40e0-b6ad-d38067a3e419)
+![output 2](https://github.com/user-attachments/assets/77ad7648-13c9-489a-a942-6682a2fa6a76)
+![output 3](https://github.com/user-attachments/assets/e33b4ba6-c0b9-4326-ad6f-7991cf4416fb)
+![output 4](https://github.com/user-attachments/assets/9e11ba2c-2bba-4d25-aee7-89eba6771211)
+![output 5](https://github.com/user-attachments/assets/291500c1-3cbd-4033-867c-6123e625f04a)
+![output 6](https://github.com/user-attachments/assets/0afb5d59-f412-4fac-a11f-065880e7564c)
+![output 7](https://github.com/user-attachments/assets/034b9afc-2666-4cd1-a60b-7305318861cd)
 
 ---
 
