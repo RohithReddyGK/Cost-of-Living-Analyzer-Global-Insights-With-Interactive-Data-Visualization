@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 The **Cost of Living Analyzer** is a web-based application designed to help users compare the cost of living in different cities and countries worldwide. It provides **interactive visualizations** of key expense factors such as housing, transportation, food, utilities, and more.
 
-The project leverages **React.js & Tailwind CSS for frontend**, **Django for backend**, and **BeautifulSoup & Pandas for data extraction and processing**. The application also incorporates **Chart.js** for visualizing cost-of-living trends dynamically.
+The project leverages **React.jS & CSS for frontend**, **Django for backend**, and **BeautifulSoup & Pandas for data extraction and processing**. The application also incorporates **Chart.js** for visualizing cost-of-living trends dynamically.
 
 ---
 
@@ -21,7 +21,7 @@ The project leverages **React.js & Tailwind CSS for frontend**, **Django for bac
 
 ### **Frontend**
 - **React.js** – Component-based UI development
-- **Tailwind CSS** – Modern styling for responsiveness
+- **CSS** – Styling for responsiveness
 - **Chart.js** – Data visualization using graphs and charts
 
 ### **Backend**
@@ -88,25 +88,25 @@ Data is processed using **BeautifulSoup & Pandas**, ensuring accuracy before vis
 
 ## 🖼️ Screenshots
 
-### **User-Interactive Web Out-Let**
+### **User-Interactive Web Out-Let.**
 <img src="https://github.com/user-attachments/assets/df5b8240-c0a9-40e0-b6ad-d38067a3e419" width="800" height="450">
 
-### **Visualization of India's Cost of Living - 3 Indexes**
+### **Visualization of India's Cost of Living - 3 Indexes.**
 <img src="https://github.com/user-attachments/assets/77ad7648-13c9-489a-a942-6682a2fa6a76" width="800" height="450">
 
-### **Visualization of India's Cost of Living - Next 3 Indexes**
+### **Visualization of India's Cost of Living - Next 3 Indexes.**
 <img src="https://github.com/user-attachments/assets/e33b4ba6-c0b9-4326-ad6f-7991cf4416fb" width="800" height="450">
 
-### **Visualization of Bengaluru's Cost of Living - 3 Indexes**
+### **Visualization of Bengaluru's Cost of Living - 3 Indexes.**
 <img src="https://github.com/user-attachments/assets/9e11ba2c-2bba-4d25-aee7-89eba6771211" width="800" height="450">
 
-### **Visualization of Bengaluru's Cost of Living - Next 3 Indexes**
+### **Visualization of Bengaluru's Cost of Living - Next 3 Indexes.**
 <img src="https://github.com/user-attachments/assets/291500c1-3cbd-4033-867c-6123e625f04a" width="800" height="450">
 
-### **Visualization of Japan's Cost of Living - 3 Indexes**
+### **Visualization of Japan's Cost of Living - 3 Indexes.**
 <img src="https://github.com/user-attachments/assets/0afb5d59-f412-4fac-a11f-065880e7564c" width="800" height="450">
 
-### **Visualization of Japan's Cost of Living - Next 3 Indexes**
+### **Visualization of Japan's Cost of Living - Next 3 Indexes.**
 <img src="https://github.com/user-attachments/assets/034b9afc-2666-4cd1-a60b-7305318861cd" width="800" height="450">
 
 ---
