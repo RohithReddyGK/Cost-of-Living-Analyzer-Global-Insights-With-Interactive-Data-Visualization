@@ -87,20 +87,27 @@ Data is processed using **BeautifulSoup & Pandas**, ensuring accuracy before vis
 ---
 
 ## 🖼️ Screenshots
-**User-Interactive Web Out-Let**
-![Output 1](https://github.com/user-attachments/assets/df5b8240-c0a9-40e0-b6ad-d38067a3e419)
-**Visualization of India's cost of living - 3 Indexes**
-![output 2](https://github.com/user-attachments/assets/77ad7648-13c9-489a-a942-6682a2fa6a76)
-**Visualization of India's cost of living - Next 3 Indexes**
-![output 3](https://github.com/user-attachments/assets/e33b4ba6-c0b9-4326-ad6f-7991cf4416fb)
-**Visualization of Bengaluru's cost of living - 3 Indexes**
-![output 4](https://github.com/user-attachments/assets/9e11ba2c-2bba-4d25-aee7-89eba6771211)
-**Visualization of Bengaluru's cost of living - Next 3 Indexes**
-![output 5](https://github.com/user-attachments/assets/291500c1-3cbd-4033-867c-6123e625f04a)
-**Visualization of Japan's cost of living - 3 Indexes**
-![output 6](https://github.com/user-attachments/assets/0afb5d59-f412-4fac-a11f-065880e7564c)
-**Visualization of Bengaluru's cost of living - Next 3 Indexes**
-![output 7](https://github.com/user-attachments/assets/034b9afc-2666-4cd1-a60b-7305318861cd)
+
+### **User-Interactive Web Out-Let**
+<img src="https://github.com/user-attachments/assets/df5b8240-c0a9-40e0-b6ad-d38067a3e419" width="800" height="450">
+
+### **Visualization of India's Cost of Living - 3 Indexes**
+<img src="https://github.com/user-attachments/assets/77ad7648-13c9-489a-a942-6682a2fa6a76" width="800" height="450">
+
+### **Visualization of India's Cost of Living - Next 3 Indexes**
+<img src="https://github.com/user-attachments/assets/e33b4ba6-c0b9-4326-ad6f-7991cf4416fb" width="800" height="450">
+
+### **Visualization of Bengaluru's Cost of Living - 3 Indexes**
+<img src="https://github.com/user-attachments/assets/9e11ba2c-2bba-4d25-aee7-89eba6771211" width="800" height="450">
+
+### **Visualization of Bengaluru's Cost of Living - Next 3 Indexes**
+<img src="https://github.com/user-attachments/assets/291500c1-3cbd-4033-867c-6123e625f04a" width="800" height="450">
+
+### **Visualization of Japan's Cost of Living - 3 Indexes**
+<img src="https://github.com/user-attachments/assets/0afb5d59-f412-4fac-a11f-065880e7564c" width="800" height="450">
+
+### **Visualization of Japan's Cost of Living - Next 3 Indexes**
+<img src="https://github.com/user-attachments/assets/034b9afc-2666-4cd1-a60b-7305318861cd" width="800" height="450">
 
 ---
 
