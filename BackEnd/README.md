@@ -1,48 +1,38 @@
-Getting Started with Django
+# Getting Started with Django
 
 This project is set up using Django, a high-level Python web framework.
 
-Available Commands
+## Available Commands
 
 In the project directory, you can run:
 
-python -m venv env
-
+### `python -m venv env`
 Creates a virtual environment to manage dependencies.
 
-source env/bin/activate (Mac/Linux) or env\Scripts\activate (Windows)
-
+### `source env/bin/activate` (Mac/Linux) or `env\Scripts\activate` (Windows)
 Activates the virtual environment.
 
-pip install -r requirements.txt
+### `pip install -r requirements.txt`
+Installs all required dependencies from the `requirements.txt` file.
 
-Installs all required dependencies from the requirements.txt file.
-
-python manage.py runserver
-
+### `python manage.py runserver`
 Runs the development server.
 
-Open http://127.0.0.1:8000 to view the project in your browser.
+- Open [http://127.0.0.1:8000](http://127.0.0.1:8000) to view the project in your browser.
+- The server will restart automatically when you make changes.
+- Any errors will be displayed in the console.
 
-The server will restart automatically when you make changes.
-
-Any errors will be displayed in the console.
-
-python manage.py migrate
-
+### `python manage.py migrate`
 Applies database migrations to ensure the database schema is up to date.
 
-python manage.py createsuperuser
-
+### `python manage.py createsuperuser`
 Creates an admin user for the Django Admin Panel.
 
-python manage.py collectstatic
-
+### `python manage.py collectstatic`
 Collects static files for production deployment.
 
-Deployment
-
-For production, consider using Gunicorn and Nginx or deploying via Heroku, AWS, or DigitalOcean.
+## Deployment
+For production, consider using **Gunicorn** and **Nginx** or deploying via **Heroku, AWS, or DigitalOcean**.
 
 Your Django project is now ready to be built and deployed!
 
