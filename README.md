@@ -134,7 +134,6 @@ Under the guidance of **Dr. R. Amutha**, Professor & HOD, Department of Informat
 Want to contribute? Fork this repository and create a pull request with improvements! 🚀
 
 ---
----
 
 ### 🌟 **If you like this project, give it a ⭐ on GitHub!**
 
