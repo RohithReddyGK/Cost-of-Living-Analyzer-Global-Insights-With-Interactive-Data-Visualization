@@ -6,29 +6,67 @@ from .models import List_cities
 from .serializer import CitySerializer
 from django.http import JsonResponse
 import json
+import os
 
 # Create your views here.
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/current.json', 'r') as file:
-    current_data = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/current.json', 'r') as file:
+#     current_data = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2023.json', 'r') as file:
-    data_2023 = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2023.json', 'r') as file:
+#     data_2023 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2022.json', 'r') as file:
-    data_2022 = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2022.json', 'r') as file:
+#     data_2022 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2021.json', 'r') as file:
-    data_2021 = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2021.json', 'r') as file:
+#     data_2021 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2020.json', 'r') as file:
-    data_2020 = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2020.json', 'r') as file:
+#     data_2020 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/list_of_countries.json', 'r') as file:
-    country_city_mapping = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/list_of_countries.json', 'r') as file:
+#     country_city_mapping = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/country_details.json', 'r') as file:
-    country_details = json.load(file)
+# with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/country_details.json', 'r') as file:
+#     country_details = json.load(file)
 
+# Get the absolute path of the project directory
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Path to the JSON files directory
+JSON_DIR = os.path.join(BASE_DIR, 'JSON_files')
+
+# Load all JSON files dynamically
+json_files = {
+    "current_data": "current.json",
+    "data_2023": "2023.json",
+    "data_2022": "2022.json",
+    "data_2021": "2021.json",
+    "data_2020": "2020.json",
+    "country_city_mapping": "list_of_countries.json",
+    "country_details": "country_details.json"
+}
+
+# Dictionary to store loaded data
+loaded_data = {}
+
+for key, filename in json_files.items():
+    file_path = os.path.join(JSON_DIR, filename)
+    
+    if os.path.exists(file_path):  # Ensure the file exists
+        with open(file_path, 'r') as file:
+            loaded_data[key] = json.load(file)
+    else:
+        print(f"Warning: {filename} not found in {JSON_DIR}")
+
+# Assign loaded data to variables
+current_data = loaded_data.get("current_data", {})
+data_2023 = loaded_data.get("data_2023", {})
+data_2022 = loaded_data.get("data_2022", {})
+data_2021 = loaded_data.get("data_2021", {})
+data_2020 = loaded_data.get("data_2020", {})
+country_city_mapping = loaded_data.get("country_city_mapping", {})
+country_details = loaded_data.get("country_details", {})
 
 # Django view to fetch city data across years
 @api_view(['POST'])

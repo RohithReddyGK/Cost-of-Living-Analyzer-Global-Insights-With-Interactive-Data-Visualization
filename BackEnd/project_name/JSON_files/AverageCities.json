@@ -1,0 +1,3260 @@
+{
+    "0": {
+        "city_name": "Zurich",
+        "coi": 125.7,
+        "ri": 65.4,
+        "coipri": 97.1,
+        "gi": 125.6,
+        "rpi": 122.7,
+        "lppi": 122.5
+    },
+    "1": {
+        "city_name": "Geneva",
+        "coi": 115.7,
+        "ri": 68.1,
+        "coipri": 93.1,
+        "gi": 114.6,
+        "rpi": 118.5,
+        "lppi": 113.3
+    },
+    "2": {
+        "city_name": "Basel",
+        "coi": 125.7,
+        "ri": 46.6,
+        "coipri": 88.3,
+        "gi": 131.0,
+        "rpi": 121.6,
+        "lppi": 117.0
+    },
+    "3": {
+        "city_name": "Lausanne",
+        "coi": 120.9,
+        "ri": 52.8,
+        "coipri": 88.5,
+        "gi": 123.1,
+        "rpi": 117.2,
+        "lppi": 112.5
+    },
+    "4": {
+        "city_name": "New York",
+        "coi": 100.0,
+        "ri": 100.0,
+        "coipri": 100.0,
+        "gi": 100.0,
+        "rpi": 100.0,
+        "lppi": 100.0
+    },
+    "5": {
+        "city_name": "Bern",
+        "coi": 114.6,
+        "ri": 41.0,
+        "coipri": 79.5,
+        "gi": 112.1,
+        "rpi": 107.2,
+        "lppi": 126.0
+    },
+    "6": {
+        "city_name": "San Francisco",
+        "coi": 93.7,
+        "ri": 99.2,
+        "coipri": 96.4,
+        "gi": 95.9,
+        "rpi": 91.6,
+        "lppi": 127.7
+    },
+    "7": {
+        "city_name": "Honolulu",
+        "coi": 95.1,
+        "ri": 61.6,
+        "coipri": 79.1,
+        "gi": 103.9,
+        "rpi": 83.1,
+        "lppi": 82.6
+    },
+    "8": {
+        "city_name": "Boston",
+        "coi": 86.4,
+        "ri": 74.7,
+        "coipri": 81.1,
+        "gi": 87.9,
+        "rpi": 88.8,
+        "lppi": 110.8
+    },
+    "9": {
+        "city_name": "Reykjavik",
+        "coi": 93.0,
+        "ri": 45.2,
+        "coipri": 70.4,
+        "gi": 88.6,
+        "rpi": 102.3,
+        "lppi": 80.1
+    },
+    "10": {
+        "city_name": "San Jose",
+        "coi": 77.5,
+        "ri": 73.0,
+        "coipri": 75.3,
+        "gi": 74.2,
+        "rpi": 78.4,
+        "lppi": 131.2
+    },
+    "11": {
+        "city_name": "Washington",
+        "coi": 84.3,
+        "ri": 73.4,
+        "coipri": 79.2,
+        "gi": 83.3,
+        "rpi": 83.7,
+        "lppi": 121.3
+    },
+    "12": {
+        "city_name": "London",
+        "coi": 81.9,
+        "ri": 69.8,
+        "coipri": 76.3,
+        "gi": 61.1,
+        "rpi": 87.7,
+        "lppi": 84.1
+    },
+    "13": {
+        "city_name": "Singapore",
+        "coi": 82.5,
+        "ri": 71.1,
+        "coipri": 77.0,
+        "gi": 73.3,
+        "rpi": 57.9,
+        "lppi": 89.0
+    },
+    "14": {
+        "city_name": "Trondheim",
+        "coi": 93.5,
+        "ri": 33.5,
+        "coipri": 65.0,
+        "gi": 87.2,
+        "rpi": 96.0,
+        "lppi": 87.5
+    },
+    "15": {
+        "city_name": "Seattle",
+        "coi": 87.7,
+        "ri": 65.8,
+        "coipri": 77.3,
+        "gi": 85.5,
+        "rpi": 88.1,
+        "lppi": 133.8
+    },
+    "16": {
+        "city_name": "Sacramento",
+        "coi": 80.1,
+        "ri": 50.8,
+        "coipri": 66.5,
+        "gi": 81.4,
+        "rpi": 70.9,
+        "lppi": 106.2
+    },
+    "17": {
+        "city_name": "Los Angeles",
+        "coi": 80.2,
+        "ri": 70.8,
+        "coipri": 76.0,
+        "gi": 77.9,
+        "rpi": 88.0,
+        "lppi": 115.4
+    },
+    "18": {
+        "city_name": "San Diego",
+        "coi": 79.7,
+        "ri": 71.3,
+        "coipri": 75.9,
+        "gi": 75.3,
+        "rpi": 81.7,
+        "lppi": 116.2
+    },
+    "19": {
+        "city_name": "Oslo",
+        "coi": 92.2,
+        "ri": 39.3,
+        "coipri": 67.1,
+        "gi": 87.3,
+        "rpi": 96.6,
+        "lppi": 90.3
+    },
+    "20": {
+        "city_name": "Bergen",
+        "coi": 91.8,
+        "ri": 31.2,
+        "coipri": 63.1,
+        "gi": 86.3,
+        "rpi": 94.9,
+        "lppi": 86.6
+    },
+    "21": {
+        "city_name": "Hong Kong",
+        "coi": 76.0,
+        "ri": 68.6,
+        "coipri": 72.6,
+        "gi": 79.6,
+        "rpi": 52.7,
+        "lppi": 70.0
+    },
+    "22": {
+        "city_name": "Miami",
+        "coi": 78.4,
+        "ri": 65.4,
+        "coipri": 72.1,
+        "gi": 75.7,
+        "rpi": 83.9,
+        "lppi": 89.5
+    },
+    "23": {
+        "city_name": "Chicago",
+        "coi": 79.5,
+        "ri": 56.8,
+        "coipri": 68.7,
+        "gi": 79.2,
+        "rpi": 78.7,
+        "lppi": 119.8
+    },
+    "24": {
+        "city_name": "Tel Aviv-Yafo",
+        "coi": 83.2,
+        "ri": 45.1,
+        "coipri": 65.2,
+        "gi": 72.5,
+        "rpi": 91.6,
+        "lppi": 74.0
+    },
+    "25": {
+        "city_name": "Copenhagen",
+        "coi": 85.2,
+        "ri": 45.8,
+        "coipri": 66.6,
+        "gi": 68.1,
+        "rpi": 99.7,
+        "lppi": 91.1
+    },
+    "26": {
+        "city_name": "Raleigh",
+        "coi": 72.1,
+        "ri": 44.8,
+        "coipri": 59.2,
+        "gi": 72.3,
+        "rpi": 73.1,
+        "lppi": 122.8
+    },
+    "27": {
+        "city_name": "Denver",
+        "coi": 76.0,
+        "ri": 53.3,
+        "coipri": 65.3,
+        "gi": 73.3,
+        "rpi": 75.1,
+        "lppi": 124.0
+    },
+    "28": {
+        "city_name": "Sydney",
+        "coi": 80.5,
+        "ri": 56.2,
+        "coipri": 68.9,
+        "gi": 76.5,
+        "rpi": 70.6,
+        "lppi": 97.7
+    },
+    "29": {
+        "city_name": "Portland",
+        "coi": 79.6,
+        "ri": 49.3,
+        "coipri": 65.3,
+        "gi": 79.0,
+        "rpi": 74.1,
+        "lppi": 107.7
+    },
+    "30": {
+        "city_name": "Atlanta",
+        "coi": 75.8,
+        "ri": 47.9,
+        "coipri": 62.5,
+        "gi": 76.8,
+        "rpi": 70.3,
+        "lppi": 131.0
+    },
+    "31": {
+        "city_name": "New Orleans",
+        "coi": 75.8,
+        "ri": 42.6,
+        "coipri": 59.9,
+        "gi": 74.3,
+        "rpi": 77.2,
+        "lppi": 91.2
+    },
+    "32": {
+        "city_name": "Tampa",
+        "coi": 76.1,
+        "ri": 48.4,
+        "coipri": 62.9,
+        "gi": 79.3,
+        "rpi": 72.9,
+        "lppi": 112.1
+    },
+    "33": {
+        "city_name": "Charlotte",
+        "coi": 73.7,
+        "ri": 51.3,
+        "coipri": 63.3,
+        "gi": 72.5,
+        "rpi": 72.0,
+        "lppi": 124.3
+    },
+    "34": {
+        "city_name": "Philadelphia",
+        "coi": 78.0,
+        "ri": 46.5,
+        "coipri": 63.3,
+        "gi": 79.9,
+        "rpi": 72.2,
+        "lppi": 107.9
+    },
+    "35": {
+        "city_name": "Canberra",
+        "coi": 79.5,
+        "ri": 41.9,
+        "coipri": 61.7,
+        "gi": 77.3,
+        "rpi": 84.8,
+        "lppi": 97.1
+    },
+    "36": {
+        "city_name": "Paris",
+        "coi": 81.3,
+        "ri": 45.0,
+        "coipri": 64.0,
+        "gi": 80.2,
+        "rpi": 76.4,
+        "lppi": 77.2
+    },
+    "37": {
+        "city_name": "Espoo",
+        "coi": 76.2,
+        "ri": 30.6,
+        "coipri": 54.8,
+        "gi": 68.1,
+        "rpi": 85.8,
+        "lppi": 95.9
+    },
+    "38": {
+        "city_name": "Cambridge",
+        "coi": 72.375,
+        "ri": 43.625,
+        "coipri": 58.375,
+        "gi": 58.875,
+        "rpi": 79.25,
+        "lppi": 85.375
+    },
+    "39": {
+        "city_name": "Aarhus",
+        "coi": 82.8,
+        "ri": 31.8,
+        "coipri": 58.6,
+        "gi": 68.0,
+        "rpi": 95.2,
+        "lppi": 97.9
+    },
+    "40": {
+        "city_name": "Amsterdam",
+        "coi": 76.2,
+        "ri": 52.1,
+        "coipri": 64.9,
+        "gi": 61.0,
+        "rpi": 80.7,
+        "lppi": 94.0
+    },
+    "41": {
+        "city_name": "Nashville",
+        "coi": 74.4,
+        "ri": 51.3,
+        "coipri": 63.7,
+        "gi": 73.3,
+        "rpi": 74.4,
+        "lppi": 112.1
+    },
+    "42": {
+        "city_name": "Minneapolis",
+        "coi": 77.8,
+        "ri": 43.3,
+        "coipri": 61.7,
+        "gi": 76.9,
+        "rpi": 77.4,
+        "lppi": 117.5
+    },
+    "43": {
+        "city_name": "Seoul",
+        "coi": 78.0,
+        "ri": 31.0,
+        "coipri": 55.8,
+        "gi": 97.4,
+        "rpi": 43.9,
+        "lppi": 79.1
+    },
+    "44": {
+        "city_name": "Munich",
+        "coi": 73.7,
+        "ri": 42.8,
+        "coipri": 59.1,
+        "gi": 61.5,
+        "rpi": 71.8,
+        "lppi": 96.8
+    },
+    "45": {
+        "city_name": "Haarlem",
+        "coi": 76.0,
+        "ri": 46.1428571429,
+        "coipri": 62.0,
+        "gi": 61.1428571429,
+        "rpi": 77.8571428571,
+        "lppi": 83.2857142857
+    },
+    "46": {
+        "city_name": "Victoria",
+        "coi": 74.0,
+        "ri": 42.7,
+        "coipri": 59.3,
+        "gi": 78.0,
+        "rpi": 71.2,
+        "lppi": 79.9
+    },
+    "47": {
+        "city_name": "Orlando",
+        "coi": 69.8,
+        "ri": 45.2,
+        "coipri": 58.2,
+        "gi": 68.8,
+        "rpi": 73.1,
+        "lppi": 111.7
+    },
+    "48": {
+        "city_name": "Dallas",
+        "coi": 69.9,
+        "ri": 49.8,
+        "coipri": 60.4,
+        "gi": 66.4,
+        "rpi": 71.6,
+        "lppi": 140.0
+    },
+    "49": {
+        "city_name": "Salzburg",
+        "coi": 71.5,
+        "ri": 29.75,
+        "coipri": 52.0,
+        "gi": 69.375,
+        "rpi": 65.75,
+        "lppi": 79.25
+    },
+    "50": {
+        "city_name": "Baltimore",
+        "coi": 73.3333333333,
+        "ri": 43.6666666667,
+        "coipri": 59.3333333333,
+        "gi": 71.5,
+        "rpi": 72.8333333333,
+        "lppi": 117.8333333333
+    },
+    "51": {
+        "city_name": "Columbus",
+        "coi": 70.6,
+        "ri": 36.5,
+        "coipri": 54.4,
+        "gi": 69.8,
+        "rpi": 67.4,
+        "lppi": 124.6
+    },
+    "52": {
+        "city_name": "Dublin",
+        "coi": 77.3,
+        "ri": 59.6,
+        "coipri": 68.7,
+        "gi": 63.1,
+        "rpi": 80.9,
+        "lppi": 76.4
+    },
+    "53": {
+        "city_name": "Edinburgh",
+        "coi": 68.7,
+        "ri": 35.1,
+        "coipri": 52.8,
+        "gi": 56.4,
+        "rpi": 78.7,
+        "lppi": 87.2
+    },
+    "54": {
+        "city_name": "Jerusalem",
+        "coi": 75.5,
+        "ri": 34.9,
+        "coipri": 56.5,
+        "gi": 63.5,
+        "rpi": 84.4,
+        "lppi": 73.7
+    },
+    "55": {
+        "city_name": "Adelaide",
+        "coi": 77.1,
+        "ri": 32.2,
+        "coipri": 55.8,
+        "gi": 77.0,
+        "rpi": 74.2,
+        "lppi": 96.5
+    },
+    "56": {
+        "city_name": "Vancouver",
+        "coi": 73.4,
+        "ri": 52.5,
+        "coipri": 63.6,
+        "gi": 75.7,
+        "rpi": 71.8,
+        "lppi": 85.2
+    },
+    "57": {
+        "city_name": "Las Vegas",
+        "coi": 69.1,
+        "ri": 38.5,
+        "coipri": 54.6,
+        "gi": 63.3,
+        "rpi": 74.1,
+        "lppi": 112.0
+    },
+    "58": {
+        "city_name": "Perth",
+        "coi": 76.6,
+        "ri": 33.9,
+        "coipri": 56.4,
+        "gi": 73.7,
+        "rpi": 74.4,
+        "lppi": 102.9
+    },
+    "59": {
+        "city_name": "Helsinki",
+        "coi": 72.6,
+        "ri": 32.9,
+        "coipri": 53.9,
+        "gi": 64.5,
+        "rpi": 79.4,
+        "lppi": 91.6
+    },
+    "60": {
+        "city_name": "Wellington",
+        "coi": 73.3,
+        "ri": 40.7,
+        "coipri": 58.1,
+        "gi": 72.1,
+        "rpi": 66.0,
+        "lppi": 85.4
+    },
+    "61": {
+        "city_name": "Hamburg",
+        "coi": 70.8,
+        "ri": 32.1,
+        "coipri": 52.5,
+        "gi": 57.0,
+        "rpi": 65.5,
+        "lppi": 97.1
+    },
+    "62": {
+        "city_name": "Toronto",
+        "coi": 72.8,
+        "ri": 48.8,
+        "coipri": 61.7,
+        "gi": 69.7,
+        "rpi": 72.7,
+        "lppi": 89.2
+    },
+    "63": {
+        "city_name": "Brighton",
+        "coi": 72.9,
+        "ri": 44.6,
+        "coipri": 59.6,
+        "gi": 59.1,
+        "rpi": 78.5,
+        "lppi": 76.7
+    },
+    "64": {
+        "city_name": "Luxembourg",
+        "coi": 77.4,
+        "ri": 53.9,
+        "coipri": 66.3,
+        "gi": 70.3,
+        "rpi": 86.7,
+        "lppi": 115.8
+    },
+    "65": {
+        "city_name": "Cork",
+        "coi": 73.2,
+        "ri": 41.5,
+        "coipri": 58.3,
+        "gi": 61.7,
+        "rpi": 76.7,
+        "lppi": 83.2
+    },
+    "66": {
+        "city_name": "Lyon",
+        "coi": 73.7,
+        "ri": 25.0,
+        "coipri": 50.8,
+        "gi": 72.9,
+        "rpi": 67.2,
+        "lppi": 84.7
+    },
+    "67": {
+        "city_name": "Tucson",
+        "coi": 70.4,
+        "ri": 31.0,
+        "coipri": 51.5,
+        "gi": 67.1,
+        "rpi": 71.4,
+        "lppi": 99.2
+    },
+    "68": {
+        "city_name": "Kelowna",
+        "coi": 67.0,
+        "ri": 36.875,
+        "coipri": 52.75,
+        "gi": 66.5,
+        "rpi": 63.5,
+        "lppi": 84.875
+    },
+    "69": {
+        "city_name": "Frankfurt",
+        "coi": 69.5,
+        "ri": 35.9,
+        "coipri": 53.7,
+        "gi": 54.6,
+        "rpi": 64.2,
+        "lppi": 109.0
+    },
+    "70": {
+        "city_name": "Madison",
+        "coi": 67.3333333333,
+        "ri": 39.8888888889,
+        "coipri": 54.5555555556,
+        "gi": 66.4444444444,
+        "rpi": 67.3333333333,
+        "lppi": 115.5555555556
+    },
+    "71": {
+        "city_name": "Heidelberg",
+        "coi": 68.8,
+        "ri": 30.3,
+        "coipri": 50.9,
+        "gi": 53.4,
+        "rpi": 68.3,
+        "lppi": 100.4
+    },
+    "72": {
+        "city_name": "Dusseldorf",
+        "coi": 68.2,
+        "ri": 29.1,
+        "coipri": 49.8,
+        "gi": 55.6,
+        "rpi": 64.4,
+        "lppi": 100.0
+    },
+    "73": {
+        "city_name": "Phoenix",
+        "coi": 69.0,
+        "ri": 40.8,
+        "coipri": 55.7,
+        "gi": 65.0,
+        "rpi": 70.2,
+        "lppi": 125.7
+    },
+    "74": {
+        "city_name": "Milan",
+        "coi": 73.9,
+        "ri": 41.2,
+        "coipri": 58.4,
+        "gi": 64.6,
+        "rpi": 77.0,
+        "lppi": 53.6
+    },
+    "75": {
+        "city_name": "Darmstadt",
+        "coi": 70.3333333333,
+        "ri": 28.1666666667,
+        "coipri": 50.6666666667,
+        "gi": 59.0,
+        "rpi": 64.5,
+        "lppi": 103.3333333333
+    },
+    "76": {
+        "city_name": "Calgary",
+        "coi": 71.3,
+        "ri": 31.8,
+        "coipri": 52.8,
+        "gi": 68.5,
+        "rpi": 68.3,
+        "lppi": 109.4
+    },
+    "77": {
+        "city_name": "Salt Lake City",
+        "coi": 65.3,
+        "ri": 39.9,
+        "coipri": 53.6,
+        "gi": 62.0,
+        "rpi": 67.1,
+        "lppi": 131.0
+    },
+    "78": {
+        "city_name": "Brussels",
+        "coi": 71.0,
+        "ri": 30.6,
+        "coipri": 52.0,
+        "gi": 62.3,
+        "rpi": 76.8,
+        "lppi": 91.4
+    },
+    "79": {
+        "city_name": "San Antonio",
+        "coi": 64.7,
+        "ri": 38.2,
+        "coipri": 52.1,
+        "gi": 60.0,
+        "rpi": 67.8,
+        "lppi": 123.1
+    },
+    "80": {
+        "city_name": "Manchester",
+        "coi": 68.0,
+        "ri": 32.0,
+        "coipri": 50.9,
+        "gi": 56.2,
+        "rpi": 76.7,
+        "lppi": 90.5
+    },
+    "81": {
+        "city_name": "Maastricht",
+        "coi": 70.6666666667,
+        "ri": 32.1111111111,
+        "coipri": 52.5555555556,
+        "gi": 60.7777777778,
+        "rpi": 70.2222222222,
+        "lppi": 93.6666666667
+    },
+    "82": {
+        "city_name": "Stockholm",
+        "coi": 74.1,
+        "ri": 37.7,
+        "coipri": 56.8,
+        "gi": 66.4,
+        "rpi": 74.7,
+        "lppi": 91.1
+    },
+    "83": {
+        "city_name": "Bristol",
+        "coi": 68.1,
+        "ri": 37.5,
+        "coipri": 53.6,
+        "gi": 54.9,
+        "rpi": 76.2,
+        "lppi": 87.4
+    },
+    "84": {
+        "city_name": "Austin",
+        "coi": 68.1,
+        "ri": 56.4,
+        "coipri": 62.6,
+        "gi": 66.4,
+        "rpi": 72.5,
+        "lppi": 134.7
+    },
+    "85": {
+        "city_name": "Vienna",
+        "coi": 66.4,
+        "ri": 29.4,
+        "coipri": 48.8,
+        "gi": 60.1,
+        "rpi": 64.1,
+        "lppi": 89.1
+    },
+    "86": {
+        "city_name": "Antwerp",
+        "coi": 71.0,
+        "ri": 24.4444444444,
+        "coipri": 49.0,
+        "gi": 58.4444444444,
+        "rpi": 80.0,
+        "lppi": 82.3333333333
+    },
+    "87": {
+        "city_name": "Auckland",
+        "coi": 76.2,
+        "ri": 40.2,
+        "coipri": 59.0,
+        "gi": 73.8,
+        "rpi": 69.4,
+        "lppi": 86.5
+    },
+    "88": {
+        "city_name": "Melbourne",
+        "coi": 74.9,
+        "ri": 39.6,
+        "coipri": 58.1,
+        "gi": 74.8,
+        "rpi": 69.5,
+        "lppi": 102.6
+    },
+    "89": {
+        "city_name": "Stuttgart",
+        "coi": 66.7,
+        "ri": 31.4,
+        "coipri": 50.0,
+        "gi": 55.3,
+        "rpi": 64.8,
+        "lppi": 108.7
+    },
+    "90": {
+        "city_name": "Haifa",
+        "coi": 75.4,
+        "ri": 20.8,
+        "coipri": 49.7,
+        "gi": 64.0,
+        "rpi": 80.8,
+        "lppi": 83.5
+    },
+    "91": {
+        "city_name": "Freiburg im Breisgau",
+        "coi": 66.4444444444,
+        "ri": 31.7777777778,
+        "coipri": 50.1111111111,
+        "gi": 56.0,
+        "rpi": 60.7777777778,
+        "lppi": 98.5555555556
+    },
+    "92": {
+        "city_name": "Halifax",
+        "coi": 70.8,
+        "ri": 33.1,
+        "coipri": 52.9,
+        "gi": 74.9,
+        "rpi": 63.6,
+        "lppi": 82.3
+    },
+    "93": {
+        "city_name": "Ottawa",
+        "coi": 70.9,
+        "ri": 36.3,
+        "coipri": 54.6,
+        "gi": 66.4,
+        "rpi": 73.0,
+        "lppi": 95.0
+    },
+    "94": {
+        "city_name": "Utrecht",
+        "coi": 73.4,
+        "ri": 38.5,
+        "coipri": 56.8,
+        "gi": 59.9,
+        "rpi": 77.0,
+        "lppi": 92.4
+    },
+    "95": {
+        "city_name": "Glasgow",
+        "coi": 65.8,
+        "ri": 27.3,
+        "coipri": 47.5,
+        "gi": 53.9,
+        "rpi": 71.8,
+        "lppi": 98.3
+    },
+    "96": {
+        "city_name": "Essen",
+        "coi": 64.8,
+        "ri": 19.6,
+        "coipri": 43.4,
+        "gi": 50.8,
+        "rpi": 62.2,
+        "lppi": 99.5
+    },
+    "97": {
+        "city_name": "Rotterdam",
+        "coi": 69.6,
+        "ri": 37.3,
+        "coipri": 54.4,
+        "gi": 58.3,
+        "rpi": 68.9,
+        "lppi": 99.2
+    },
+    "98": {
+        "city_name": "Graz",
+        "coi": 71.3,
+        "ri": 21.2,
+        "coipri": 47.4,
+        "gi": 67.1,
+        "rpi": 60.8,
+        "lppi": 82.0
+    },
+    "99": {
+        "city_name": "Aberdeen",
+        "coi": 65.7777777778,
+        "ri": 23.3333333333,
+        "coipri": 45.5555555556,
+        "gi": 52.6666666667,
+        "rpi": 72.5555555556,
+        "lppi": 107.2222222222
+    },
+    "100": {
+        "city_name": "Houston",
+        "coi": 65.9,
+        "ri": 42.4,
+        "coipri": 54.7,
+        "gi": 62.6,
+        "rpi": 69.2,
+        "lppi": 145.9
+    },
+    "101": {
+        "city_name": "Bonn",
+        "coi": 68.4,
+        "ri": 28.0,
+        "coipri": 49.3,
+        "gi": 52.8,
+        "rpi": 68.2,
+        "lppi": 89.1
+    },
+    "102": {
+        "city_name": "Gent",
+        "coi": 69.1,
+        "ri": 24.2,
+        "coipri": 47.8,
+        "gi": 59.2,
+        "rpi": 75.5,
+        "lppi": 82.3
+    },
+    "103": {
+        "city_name": "Brisbane",
+        "coi": 76.0,
+        "ri": 37.1,
+        "coipri": 57.6,
+        "gi": 74.4,
+        "rpi": 73.5,
+        "lppi": 102.7
+    },
+    "104": {
+        "city_name": "Boise",
+        "coi": 65.0,
+        "ri": 38.8,
+        "coipri": 52.7,
+        "gi": 60.3,
+        "rpi": 70.0,
+        "lppi": 104.0
+    },
+    "105": {
+        "city_name": "Berlin",
+        "coi": 67.3,
+        "ri": 34.8,
+        "coipri": 51.8,
+        "gi": 56.3,
+        "rpi": 58.4,
+        "lppi": 97.5
+    },
+    "106": {
+        "city_name": "Karlsruhe",
+        "coi": 64.7777777778,
+        "ri": 24.6666666667,
+        "coipri": 45.7777777778,
+        "gi": 52.4444444444,
+        "rpi": 59.6666666667,
+        "lppi": 105.7777777778
+    },
+    "107": {
+        "city_name": "Cologne",
+        "coi": 66.8,
+        "ri": 28.3,
+        "coipri": 48.6,
+        "gi": 54.6,
+        "rpi": 59.7,
+        "lppi": 93.3
+    },
+    "108": {
+        "city_name": "Nuremberg",
+        "coi": 65.9,
+        "ri": 23.5,
+        "coipri": 45.8,
+        "gi": 55.2,
+        "rpi": 58.5,
+        "lppi": 105.9
+    },
+    "109": {
+        "city_name": "Leiden",
+        "coi": 74.6666666667,
+        "ri": 34.6666666667,
+        "coipri": 55.6666666667,
+        "gi": 61.3333333333,
+        "rpi": 77.5,
+        "lppi": 89.5
+    },
+    "110": {
+        "city_name": "Montreal",
+        "coi": 66.6,
+        "ri": 29.3,
+        "coipri": 49.1,
+        "gi": 68.6,
+        "rpi": 66.0,
+        "lppi": 90.2
+    },
+    "111": {
+        "city_name": "Almere",
+        "coi": 63.0,
+        "ri": 28.0,
+        "coipri": 47.0,
+        "gi": 62.0,
+        "rpi": 66.0,
+        "lppi": 114.0
+    },
+    "112": {
+        "city_name": "Bremen",
+        "coi": 63.7,
+        "ri": 21.8,
+        "coipri": 43.9,
+        "gi": 53.5,
+        "rpi": 58.2,
+        "lppi": 91.3
+    },
+    "113": {
+        "city_name": "Quebec City",
+        "coi": 67.0,
+        "ri": 20.3,
+        "coipri": 44.7,
+        "gi": 67.9,
+        "rpi": 63.1,
+        "lppi": 94.6
+    },
+    "114": {
+        "city_name": "Delft",
+        "coi": 68.1111111111,
+        "ri": 30.2222222222,
+        "coipri": 50.2222222222,
+        "gi": 60.6666666667,
+        "rpi": 63.4444444444,
+        "lppi": 97.6666666667
+    },
+    "115": {
+        "city_name": "Liverpool",
+        "coi": 65.9,
+        "ri": 24.6,
+        "coipri": 46.4,
+        "gi": 53.2,
+        "rpi": 73.7,
+        "lppi": 85.1
+    },
+    "116": {
+        "city_name": "Hanover",
+        "coi": 64.8,
+        "ri": 23.4,
+        "coipri": 45.1,
+        "gi": 53.5,
+        "rpi": 60.0,
+        "lppi": 97.9
+    },
+    "117": {
+        "city_name": "Bologna",
+        "coi": 67.9,
+        "ri": 25.4,
+        "coipri": 47.8,
+        "gi": 61.5,
+        "rpi": 69.5,
+        "lppi": 59.5
+    },
+    "118": {
+        "city_name": "Eindhoven",
+        "coi": 71.7,
+        "ri": 34.6,
+        "coipri": 54.2,
+        "gi": 59.1,
+        "rpi": 72.9,
+        "lppi": 102.5
+    },
+    "119": {
+        "city_name": "Dortmund",
+        "coi": 67.8571428571,
+        "ri": 20.2857142857,
+        "coipri": 45.4285714286,
+        "gi": 55.8571428571,
+        "rpi": 60.0,
+        "lppi": 97.4285714286
+    },
+    "120": {
+        "city_name": "Montpellier",
+        "coi": 70.625,
+        "ri": 23.875,
+        "coipri": 48.75,
+        "gi": 70.625,
+        "rpi": 65.0,
+        "lppi": 76.75
+    },
+    "121": {
+        "city_name": "Tampere",
+        "coi": 67.7,
+        "ri": 22.7,
+        "coipri": 46.3,
+        "gi": 59.6,
+        "rpi": 73.1,
+        "lppi": 96.7
+    },
+    "122": {
+        "city_name": "Leeds",
+        "coi": 63.8,
+        "ri": 28.4,
+        "coipri": 47.1,
+        "gi": 52.8,
+        "rpi": 68.7,
+        "lppi": 96.6
+    },
+    "123": {
+        "city_name": "Erlangen",
+        "coi": 66.6,
+        "ri": 25.0,
+        "coipri": 47.2,
+        "gi": 55.4,
+        "rpi": 63.8,
+        "lppi": 129.4
+    },
+    "124": {
+        "city_name": "The Hague (Den Haag)",
+        "coi": 67.1,
+        "ri": 33.8,
+        "coipri": 51.3,
+        "gi": 56.7,
+        "rpi": 69.5,
+        "lppi": 106.4
+    },
+    "125": {
+        "city_name": "Birmingham",
+        "coi": 68.9,
+        "ri": 30.6,
+        "coipri": 51.0,
+        "gi": 65.4,
+        "rpi": 66.4,
+        "lppi": 91.6
+    },
+    "126": {
+        "city_name": "Christchurch",
+        "coi": 70.2,
+        "ri": 29.9,
+        "coipri": 51.1,
+        "gi": 70.2,
+        "rpi": 67.4,
+        "lppi": 95.4
+    },
+    "127": {
+        "city_name": "Mississauga",
+        "coi": 67.2222222222,
+        "ri": 44.1111111111,
+        "coipri": 56.3333333333,
+        "gi": 62.6666666667,
+        "rpi": 59.5555555556,
+        "lppi": 95.3333333333
+    },
+    "128": {
+        "city_name": "Edmonton",
+        "coi": 69.2,
+        "ri": 26.6,
+        "coipri": 49.1,
+        "gi": 66.8,
+        "rpi": 67.6,
+        "lppi": 102.9
+    },
+    "129": {
+        "city_name": "Aachen",
+        "coi": 61.9,
+        "ri": 19.9,
+        "coipri": 42.2,
+        "gi": 51.4,
+        "rpi": 53.1,
+        "lppi": 113.0
+    },
+    "130": {
+        "city_name": "Mannheim",
+        "coi": 66.1,
+        "ri": 21.2,
+        "coipri": 44.8,
+        "gi": 52.9,
+        "rpi": 58.3,
+        "lppi": 107.8
+    },
+    "131": {
+        "city_name": "Dubai",
+        "coi": 64.3,
+        "ri": 48.9,
+        "coipri": 57.0,
+        "gi": 49.1,
+        "rpi": 67.4,
+        "lppi": 102.5
+    },
+    "132": {
+        "city_name": "Newcastle upon Tyne",
+        "coi": 63.1,
+        "ri": 24.6,
+        "coipri": 44.9,
+        "gi": 53.3,
+        "rpi": 66.8,
+        "lppi": 95.5
+    },
+    "133": {
+        "city_name": "Leipzig",
+        "coi": 62.1,
+        "ri": 20.5,
+        "coipri": 42.5,
+        "gi": 51.0,
+        "rpi": 53.5,
+        "lppi": 84.3
+    },
+    "134": {
+        "city_name": "Sheffield",
+        "coi": 62.7,
+        "ri": 25.6,
+        "coipri": 45.2,
+        "gi": 53.4,
+        "rpi": 61.8,
+        "lppi": 88.9
+    },
+    "135": {
+        "city_name": "Winnipeg",
+        "coi": 66.8,
+        "ri": 25.2,
+        "coipri": 47.1,
+        "gi": 66.7,
+        "rpi": 60.6,
+        "lppi": 87.5
+    },
+    "136": {
+        "city_name": "Macao",
+        "coi": 67.375,
+        "ri": 36.5,
+        "coipri": 52.75,
+        "gi": 71.625,
+        "rpi": 48.875,
+        "lppi": 72.375
+    },
+    "137": {
+        "city_name": "Malmo",
+        "coi": 67.0,
+        "ri": 23.7,
+        "coipri": 46.4,
+        "gi": 62.7,
+        "rpi": 67.0,
+        "lppi": 94.9
+    },
+    "138": {
+        "city_name": "Dresden",
+        "coi": 62.7,
+        "ri": 20.2,
+        "coipri": 42.5,
+        "gi": 50.4,
+        "rpi": 56.2,
+        "lppi": 104.8
+    },
+    "139": {
+        "city_name": "Gothenburg",
+        "coi": 68.0,
+        "ri": 28.0,
+        "coipri": 48.9,
+        "gi": 61.8,
+        "rpi": 69.3,
+        "lppi": 97.2
+    },
+    "140": {
+        "city_name": "Belfast",
+        "coi": 62.3,
+        "ri": 25.1,
+        "coipri": 44.8,
+        "gi": 53.9,
+        "rpi": 72.5,
+        "lppi": 90.7
+    },
+    "141": {
+        "city_name": "London",
+        "coi": 81.9,
+        "ri": 69.8,
+        "coipri": 76.3,
+        "gi": 61.1,
+        "rpi": 87.7,
+        "lppi": 84.1
+    },
+    "142": {
+        "city_name": "Groningen",
+        "coi": 70.7,
+        "ri": 24.7,
+        "coipri": 48.8,
+        "gi": 59.2,
+        "rpi": 71.7,
+        "lppi": 89.8
+    },
+    "143": {
+        "city_name": "Limassol",
+        "coi": 62.5,
+        "ri": 34.2,
+        "coipri": 49.0,
+        "gi": 50.7,
+        "rpi": 66.5,
+        "lppi": 56.6
+    },
+    "144": {
+        "city_name": "Kingston",
+        "coi": 66.75,
+        "ri": 29.0,
+        "coipri": 48.5,
+        "gi": 66.5,
+        "rpi": 58.375,
+        "lppi": 70.0
+    },
+    "145": {
+        "city_name": "Leuven",
+        "coi": 67.7777777778,
+        "ri": 25.0,
+        "coipri": 47.4444444444,
+        "gi": 58.4444444444,
+        "rpi": 71.8888888889,
+        "lppi": 87.8888888889
+    },
+    "146": {
+        "city_name": "Padova",
+        "coi": 62.7777777778,
+        "ri": 21.8888888889,
+        "coipri": 43.3333333333,
+        "gi": 52.7777777778,
+        "rpi": 63.0,
+        "lppi": 63.3333333333
+    },
+    "147": {
+        "city_name": "Verona",
+        "coi": 63.8571428571,
+        "ri": 20.7142857143,
+        "coipri": 43.7142857143,
+        "gi": 58.0,
+        "rpi": 63.4285714286,
+        "lppi": 65.2857142857
+    },
+    "148": {
+        "city_name": "Abu Dhabi",
+        "coi": 58.4,
+        "ri": 47.9,
+        "coipri": 53.7,
+        "gi": 46.7,
+        "rpi": 60.8,
+        "lppi": 100.6
+    },
+    "149": {
+        "city_name": "Tallinn",
+        "coi": 55.7,
+        "ri": 17.6,
+        "coipri": 37.7,
+        "gi": 43.1,
+        "rpi": 57.9,
+        "lppi": 65.7
+    },
+    "150": {
+        "city_name": "Sliema",
+        "coi": 67.4,
+        "ri": 31.6,
+        "coipri": 50.4,
+        "gi": 60.4,
+        "rpi": 73.0,
+        "lppi": 49.1
+    },
+    "151": {
+        "city_name": "Port of Spain",
+        "coi": 58.1111111111,
+        "ri": 17.5555555556,
+        "coipri": 38.8888888889,
+        "gi": 53.1111111111,
+        "rpi": 64.1111111111,
+        "lppi": 35.8888888889
+    },
+    "152": {
+        "city_name": "Tokyo",
+        "coi": 73.3,
+        "ri": 35.0,
+        "coipri": 55.1,
+        "gi": 79.2,
+        "rpi": 45.2,
+        "lppi": 85.9
+    },
+    "153": {
+        "city_name": "Barcelona",
+        "coi": 58.7,
+        "ri": 30.8,
+        "coipri": 45.4,
+        "gi": 48.6,
+        "rpi": 59.1,
+        "lppi": 67.9
+    },
+    "154": {
+        "city_name": "Turin",
+        "coi": 63.3,
+        "ri": 19.5,
+        "coipri": 42.7,
+        "gi": 56.7,
+        "rpi": 64.1,
+        "lppi": 66.0
+    },
+    "155": {
+        "city_name": "Rome",
+        "coi": 66.9,
+        "ri": 32.6,
+        "coipri": 50.9,
+        "gi": 59.1,
+        "rpi": 67.8,
+        "lppi": 56.3
+    },
+    "156": {
+        "city_name": "San Jose",
+        "coi": 77.5,
+        "ri": 73.0,
+        "coipri": 75.3,
+        "gi": 74.2,
+        "rpi": 78.4,
+        "lppi": 131.2
+    },
+    "157": {
+        "city_name": "Naples",
+        "coi": 59.3,
+        "ri": 19.5,
+        "coipri": 40.6,
+        "gi": 52.1,
+        "rpi": 55.0,
+        "lppi": 54.6
+    },
+    "158": {
+        "city_name": "Madrid",
+        "coi": 56.5,
+        "ri": 31.0,
+        "coipri": 44.4,
+        "gi": 47.6,
+        "rpi": 58.2,
+        "lppi": 80.0
+    },
+    "159": {
+        "city_name": "Athens",
+        "coi": 57.1,
+        "ri": 15.8,
+        "coipri": 37.6,
+        "gi": 46.9,
+        "rpi": 56.3,
+        "lppi": 42.3
+    },
+    "160": {
+        "city_name": "Kampala",
+        "coi": 33.625,
+        "ri": 10.125,
+        "coipri": 22.5,
+        "gi": 29.625,
+        "rpi": 24.875,
+        "lppi": 11.75
+    },
+    "161": {
+        "city_name": "Ljubljana",
+        "coi": 55.3,
+        "ri": 22.0,
+        "coipri": 39.5,
+        "gi": 48.4,
+        "rpi": 49.1,
+        "lppi": 60.8
+    },
+    "162": {
+        "city_name": "Doha",
+        "coi": 60.1,
+        "ri": 45.9,
+        "coipri": 53.3,
+        "gi": 50.4,
+        "rpi": 58.6,
+        "lppi": 100.9
+    },
+    "163": {
+        "city_name": "Bari",
+        "coi": 58.2857142857,
+        "ri": 18.4285714286,
+        "coipri": 39.5714285714,
+        "gi": 51.7142857143,
+        "rpi": 61.2857142857,
+        "lppi": 67.0
+    },
+    "164": {
+        "city_name": "Nicosia",
+        "coi": 59.4,
+        "ri": 18.8,
+        "coipri": 40.3,
+        "gi": 50.8,
+        "rpi": 59.2,
+        "lppi": 60.6
+    },
+    "165": {
+        "city_name": "Thessaloniki",
+        "coi": 55.9,
+        "ri": 12.5,
+        "coipri": 35.4,
+        "gi": 44.5,
+        "rpi": 54.1,
+        "lppi": 38.2
+    },
+    "166": {
+        "city_name": "Montevideo",
+        "coi": 53.6,
+        "ri": 15.2,
+        "coipri": 35.4,
+        "gi": 45.4,
+        "rpi": 49.7,
+        "lppi": 39.6
+    },
+    "167": {
+        "city_name": "Sharjah",
+        "coi": 49.6,
+        "ri": 30.9,
+        "coipri": 40.8,
+        "gi": 38.3,
+        "rpi": 37.4,
+        "lppi": 72.6
+    },
+    "168": {
+        "city_name": "Taipei",
+        "coi": 60.0,
+        "ri": 21.0,
+        "coipri": 41.7,
+        "gi": 72.5,
+        "rpi": 31.4,
+        "lppi": 66.5
+    },
+    "169": {
+        "city_name": "Prague",
+        "coi": 52.3,
+        "ri": 26.6,
+        "coipri": 40.0,
+        "gi": 45.0,
+        "rpi": 41.3,
+        "lppi": 66.1
+    },
+    "170": {
+        "city_name": "Split",
+        "coi": 49.6,
+        "ri": 15.2,
+        "coipri": 33.4,
+        "gi": 44.1,
+        "rpi": 46.0,
+        "lppi": 48.3
+    },
+    "171": {
+        "city_name": "Tartu",
+        "coi": 52.7,
+        "ri": 13.8,
+        "coipri": 34.1,
+        "gi": 43.8,
+        "rpi": 50.7,
+        "lppi": 63.2
+    },
+    "172": {
+        "city_name": "Manama",
+        "coi": 54.8,
+        "ri": 26.8,
+        "coipri": 41.4,
+        "gi": 43.9,
+        "rpi": 49.6,
+        "lppi": 67.8
+    },
+    "173": {
+        "city_name": "Bratislava",
+        "coi": 50.3,
+        "ri": 20.1,
+        "coipri": 36.2,
+        "gi": 44.2,
+        "rpi": 43.1,
+        "lppi": 60.6
+    },
+    "174": {
+        "city_name": "Lisbon",
+        "coi": 50.9,
+        "ri": 32.2,
+        "coipri": 42.1,
+        "gi": 41.5,
+        "rpi": 47.4,
+        "lppi": 45.5
+    },
+    "175": {
+        "city_name": "Riyadh",
+        "coi": 50.8,
+        "ri": 17.8,
+        "coipri": 35.2,
+        "gi": 41.7,
+        "rpi": 39.1,
+        "lppi": 96.3
+    },
+    "176": {
+        "city_name": "Riga",
+        "coi": 51.8,
+        "ri": 13.3,
+        "coipri": 33.7,
+        "gi": 40.3,
+        "rpi": 49.7,
+        "lppi": 52.6
+    },
+    "177": {
+        "city_name": "Vilnius",
+        "coi": 47.8,
+        "ri": 18.1,
+        "coipri": 33.8,
+        "gi": 38.8,
+        "rpi": 49.7,
+        "lppi": 62.1
+    },
+    "178": {
+        "city_name": "Panama City",
+        "coi": 52.9,
+        "ri": 25.3,
+        "coipri": 39.8,
+        "gi": 53.0,
+        "rpi": 49.8,
+        "lppi": 33.9
+    },
+    "179": {
+        "city_name": "Addis Ababa",
+        "coi": 49.8888888889,
+        "ri": 16.3333333333,
+        "coipri": 34.4444444444,
+        "gi": 39.7777777778,
+        "rpi": 23.4444444444,
+        "lppi": 9.5555555556
+    },
+    "180": {
+        "city_name": "Vigo",
+        "coi": 48.0,
+        "ri": 16.0,
+        "coipri": 33.0,
+        "gi": 43.6,
+        "rpi": 43.6,
+        "lppi": 78.2
+    },
+    "181": {
+        "city_name": "Seville (Sevilla)",
+        "coi": 51.0,
+        "ri": 19.7,
+        "coipri": 36.0,
+        "gi": 46.5,
+        "rpi": 43.9,
+        "lppi": 72.9
+    },
+    "182": {
+        "city_name": "Yerevan",
+        "coi": 37.6,
+        "ri": 16.3,
+        "coipri": 27.4,
+        "gi": 30.7,
+        "rpi": 35.0,
+        "lppi": 26.7
+    },
+    "183": {
+        "city_name": "Kaunas",
+        "coi": 45.3,
+        "ri": 13.0,
+        "coipri": 30.1,
+        "gi": 38.4,
+        "rpi": 42.4,
+        "lppi": 61.5
+    },
+    "184": {
+        "city_name": "Zagreb",
+        "coi": 50.1,
+        "ri": 16.5,
+        "coipri": 34.1,
+        "gi": 43.1,
+        "rpi": 44.2,
+        "lppi": 57.7
+    },
+    "185": {
+        "city_name": "Jeddah (Jiddah)",
+        "coi": 49.9,
+        "ri": 11.3,
+        "coipri": 31.8,
+        "gi": 40.9,
+        "rpi": 35.4,
+        "lppi": 87.9
+    },
+    "186": {
+        "city_name": "Tirana",
+        "coi": 41.1,
+        "ri": 11.5,
+        "coipri": 26.9,
+        "gi": 35.5,
+        "rpi": 33.0,
+        "lppi": 29.8
+    },
+    "187": {
+        "city_name": "Valencia",
+        "coi": 50.4,
+        "ri": 22.3,
+        "coipri": 36.9,
+        "gi": 43.9,
+        "rpi": 48.8,
+        "lppi": 79.6
+    },
+    "188": {
+        "city_name": "Malaga",
+        "coi": 50.0,
+        "ri": 23.9,
+        "coipri": 37.8,
+        "gi": 41.9,
+        "rpi": 48.5,
+        "lppi": 73.9
+    },
+    "189": {
+        "city_name": "Brno",
+        "coi": 47.2,
+        "ri": 19.1,
+        "coipri": 33.9,
+        "gi": 41.1,
+        "rpi": 35.5,
+        "lppi": 66.9
+    },
+    "190": {
+        "city_name": "Kuwait City",
+        "coi": 47.4,
+        "ri": 27.9,
+        "coipri": 38.3,
+        "gi": 34.6,
+        "rpi": 45.1,
+        "lppi": 79.0
+    },
+    "191": {
+        "city_name": "Warsaw",
+        "coi": 44.9,
+        "ri": 23.8,
+        "coipri": 34.7,
+        "gi": 36.1,
+        "rpi": 41.0,
+        "lppi": 63.7
+    },
+    "192": {
+        "city_name": "Beirut",
+        "coi": 69.6666666667,
+        "ri": 21.8888888889,
+        "coipri": 47.1111111111,
+        "gi": 63.6666666667,
+        "rpi": 59.6666666667,
+        "lppi": 20.7777777778
+    },
+    "193": {
+        "city_name": "Porto",
+        "coi": 47.8,
+        "ri": 24.0,
+        "coipri": 36.6,
+        "gi": 41.1,
+        "rpi": 40.0,
+        "lppi": 50.0
+    },
+    "194": {
+        "city_name": "Ad Dammam",
+        "coi": 47.4444444444,
+        "ri": 11.8888888889,
+        "coipri": 30.6666666667,
+        "gi": 41.5555555556,
+        "rpi": 33.5555555556,
+        "lppi": 100.5555555556
+    },
+    "195": {
+        "city_name": "Budva",
+        "coi": 44.25,
+        "ri": 22.5,
+        "coipri": 34.25,
+        "gi": 37.0,
+        "rpi": 43.0,
+        "lppi": 36.75
+    },
+    "196": {
+        "city_name": "Gaborone",
+        "coi": 39.25,
+        "ri": 9.25,
+        "coipri": 25.375,
+        "gi": 33.0,
+        "rpi": 39.25,
+        "lppi": 48.75
+    },
+    "197": {
+        "city_name": "Krakow (Cracow)",
+        "coi": 42.4,
+        "ri": 18.9,
+        "coipri": 31.2,
+        "gi": 34.3,
+        "rpi": 38.3,
+        "lppi": 63.6
+    },
+    "198": {
+        "city_name": "Plzen",
+        "coi": 48.0,
+        "ri": 13.25,
+        "coipri": 31.5,
+        "gi": 44.0,
+        "rpi": 36.25,
+        "lppi": 82.0
+    },
+    "199": {
+        "city_name": "Suzhou",
+        "coi": 53.6666666667,
+        "ri": 16.5,
+        "coipri": 36.5,
+        "gi": 63.5,
+        "rpi": 42.1666666667,
+        "lppi": 43.0
+    },
+    "200": {
+        "city_name": "Monterrey",
+        "coi": 41.7,
+        "ri": 17.3,
+        "coipri": 30.2,
+        "gi": 40.6,
+        "rpi": 39.5,
+        "lppi": 47.1
+    },
+    "201": {
+        "city_name": "Santo Domingo",
+        "coi": 45.0,
+        "ri": 14.5,
+        "coipri": 30.4,
+        "gi": 40.2,
+        "rpi": 37.4,
+        "lppi": 22.3
+    },
+    "202": {
+        "city_name": "Ostrava",
+        "coi": 45.4,
+        "ri": 12.8,
+        "coipri": 30.1,
+        "gi": 40.4,
+        "rpi": 33.3,
+        "lppi": 66.3
+    },
+    "203": {
+        "city_name": "Wroclaw",
+        "coi": 42.0,
+        "ri": 18.7,
+        "coipri": 31.1,
+        "gi": 34.0,
+        "rpi": 37.0,
+        "lppi": 58.3
+    },
+    "204": {
+        "city_name": "Coimbra",
+        "coi": 46.2,
+        "ri": 16.0,
+        "coipri": 31.8,
+        "gi": 39.8,
+        "rpi": 38.0,
+        "lppi": 53.0
+    },
+    "205": {
+        "city_name": "Belgrade",
+        "coi": 41.1,
+        "ri": 15.0,
+        "coipri": 28.9,
+        "gi": 33.0,
+        "rpi": 36.3,
+        "lppi": 37.1
+    },
+    "206": {
+        "city_name": "Santiago",
+        "coi": 46.3,
+        "ri": 14.5,
+        "coipri": 31.2,
+        "gi": 42.4,
+        "rpi": 46.1,
+        "lppi": 35.2
+    },
+    "207": {
+        "city_name": "Muscat",
+        "coi": 49.3,
+        "ri": 17.6,
+        "coipri": 34.1,
+        "gi": 43.9,
+        "rpi": 44.5,
+        "lppi": 86.6
+    },
+    "208": {
+        "city_name": "Braga",
+        "coi": 46.8,
+        "ri": 17.8,
+        "coipri": 33.0,
+        "gi": 41.0,
+        "rpi": 37.2,
+        "lppi": 50.6
+    },
+    "209": {
+        "city_name": "Shanghai",
+        "coi": 47.2,
+        "ri": 35.5,
+        "coipri": 41.8,
+        "gi": 49.4,
+        "rpi": 35.1,
+        "lppi": 58.6
+    },
+    "210": {
+        "city_name": "Katowice",
+        "coi": 40.5,
+        "ri": 13.4,
+        "coipri": 27.8,
+        "gi": 33.9,
+        "rpi": 33.7,
+        "lppi": 61.0
+    },
+    "211": {
+        "city_name": "Gdansk",
+        "coi": 42.2,
+        "ri": 19.2,
+        "coipri": 31.1,
+        "gi": 34.2,
+        "rpi": 36.7,
+        "lppi": 61.5
+    },
+    "212": {
+        "city_name": "Amman",
+        "coi": 49.8,
+        "ri": 9.9,
+        "coipri": 30.9,
+        "gi": 40.9,
+        "rpi": 44.7,
+        "lppi": 32.9
+    },
+    "213": {
+        "city_name": "Guatemala City",
+        "coi": 43.4444444444,
+        "ri": 15.2222222222,
+        "coipri": 30.1111111111,
+        "gi": 41.5555555556,
+        "rpi": 33.5555555556,
+        "lppi": 27.0
+    },
+    "214": {
+        "city_name": "San Salvador",
+        "coi": 44.3333333333,
+        "ri": 14.7777777778,
+        "coipri": 30.4444444444,
+        "gi": 44.3333333333,
+        "rpi": 35.0,
+        "lppi": 22.2222222222
+    },
+    "215": {
+        "city_name": "Sofia",
+        "coi": 42.4,
+        "ri": 13.1,
+        "coipri": 28.4,
+        "gi": 37.5,
+        "rpi": 38.2,
+        "lppi": 57.9
+    },
+    "216": {
+        "city_name": "Bucharest",
+        "coi": 41.3,
+        "ri": 13.4,
+        "coipri": 28.2,
+        "gi": 35.4,
+        "rpi": 40.9,
+        "lppi": 53.7
+    },
+    "217": {
+        "city_name": "Budapest",
+        "coi": 44.9,
+        "ri": 15.6,
+        "coipri": 31.1,
+        "gi": 38.6,
+        "rpi": 39.1,
+        "lppi": 53.9
+    },
+    "218": {
+        "city_name": "Istanbul",
+        "coi": 34.3,
+        "ri": 12.6,
+        "coipri": 24.0,
+        "gi": 29.5,
+        "rpi": 26.8,
+        "lppi": 33.4
+    },
+    "219": {
+        "city_name": "Constanta",
+        "coi": 39.2222222222,
+        "ri": 9.6666666667,
+        "coipri": 25.4444444444,
+        "gi": 32.4444444444,
+        "rpi": 37.8888888889,
+        "lppi": 40.7777777778
+    },
+    "220": {
+        "city_name": "Bangkok",
+        "coi": 48.5,
+        "ri": 22.3,
+        "coipri": 36.3,
+        "gi": 49.5,
+        "rpi": 24.7,
+        "lppi": 30.9
+    },
+    "221": {
+        "city_name": "Kigali",
+        "coi": 32.6666666667,
+        "ri": 13.4444444444,
+        "coipri": 23.5555555556,
+        "gi": 28.3333333333,
+        "rpi": 26.2222222222,
+        "lppi": 21.8888888889
+    },
+    "222": {
+        "city_name": "Lodz",
+        "coi": 39.4,
+        "ri": 14.2,
+        "coipri": 27.6,
+        "gi": 31.5,
+        "rpi": 33.0,
+        "lppi": 55.8
+    },
+    "223": {
+        "city_name": "Poznan",
+        "coi": 41.2,
+        "ri": 16.4,
+        "coipri": 29.5,
+        "gi": 34.3,
+        "rpi": 35.6,
+        "lppi": 57.9
+    },
+    "224": {
+        "city_name": "Mexico City",
+        "coi": 40.2,
+        "ri": 20.6,
+        "coipri": 31.0,
+        "gi": 38.8,
+        "rpi": 39.0,
+        "lppi": 37.1
+    },
+    "225": {
+        "city_name": "Beijing",
+        "coi": 43.7,
+        "ri": 32.6,
+        "coipri": 38.4,
+        "gi": 42.5,
+        "rpi": 31.5,
+        "lppi": 65.0
+    },
+    "226": {
+        "city_name": "Phnom Penh",
+        "coi": 45.7,
+        "ri": 16.1,
+        "coipri": 31.5,
+        "gi": 46.8,
+        "rpi": 25.3,
+        "lppi": 15.5
+    },
+    "227": {
+        "city_name": "Harare",
+        "coi": 44.2222222222,
+        "ri": 10.7777777778,
+        "coipri": 28.2222222222,
+        "gi": 37.2222222222,
+        "rpi": 36.8888888889,
+        "lppi": 18.7777777778
+    },
+    "228": {
+        "city_name": "Novi Sad",
+        "coi": 37.8,
+        "ri": 10.8,
+        "coipri": 24.8,
+        "gi": 31.6,
+        "rpi": 30.1,
+        "lppi": 41.0
+    },
+    "229": {
+        "city_name": "Cluj-Napoca",
+        "coi": 39.5,
+        "ri": 13.4,
+        "coipri": 27.2,
+        "gi": 35.3,
+        "rpi": 36.7,
+        "lppi": 54.7
+    },
+    "230": {
+        "city_name": "Shenzhen",
+        "coi": 43.8,
+        "ri": 23.3,
+        "coipri": 34.2,
+        "gi": 47.3,
+        "rpi": 30.2,
+        "lppi": 70.3
+    },
+    "231": {
+        "city_name": "Szczecin",
+        "coi": 38.9,
+        "ri": 14.9,
+        "coipri": 27.6,
+        "gi": 32.6,
+        "rpi": 32.8,
+        "lppi": 57.0
+    },
+    "232": {
+        "city_name": "Brasov",
+        "coi": 38.2,
+        "ri": 10.8,
+        "coipri": 25.2,
+        "gi": 34.3,
+        "rpi": 34.2,
+        "lppi": 46.4
+    },
+    "233": {
+        "city_name": "Podgorica",
+        "coi": 39.6,
+        "ri": 11.5,
+        "coipri": 26.5,
+        "gi": 33.8,
+        "rpi": 31.0,
+        "lppi": 40.5
+    },
+    "234": {
+        "city_name": "Merida",
+        "coi": 37.375,
+        "ri": 11.375,
+        "coipri": 25.0,
+        "gi": 37.75,
+        "rpi": 34.5,
+        "lppi": 32.25
+    },
+    "235": {
+        "city_name": "Varna",
+        "coi": 38.3,
+        "ri": 9.0,
+        "coipri": 24.4,
+        "gi": 34.2,
+        "rpi": 33.0,
+        "lppi": 47.5
+    },
+    "236": {
+        "city_name": "Antalya",
+        "coi": 30.2222222222,
+        "ri": 9.6666666667,
+        "coipri": 20.5555555556,
+        "gi": 26.8888888889,
+        "rpi": 23.3333333333,
+        "lppi": 33.2222222222
+    },
+    "237": {
+        "city_name": "Tijuana",
+        "coi": 39.5714285714,
+        "ri": 14.1428571429,
+        "coipri": 27.4285714286,
+        "gi": 36.2857142857,
+        "rpi": 38.7142857143,
+        "lppi": 41.4285714286
+    },
+    "238": {
+        "city_name": "Queretaro (Santiago de Quer\u00e9taro)",
+        "coi": 38.0,
+        "ri": 11.4444444444,
+        "coipri": 25.4444444444,
+        "gi": 39.1111111111,
+        "rpi": 32.7777777778,
+        "lppi": 49.3333333333
+    },
+    "239": {
+        "city_name": "Guayaquil",
+        "coi": 39.3333333333,
+        "ri": 11.6666666667,
+        "coipri": 26.1111111111,
+        "gi": 34.8888888889,
+        "rpi": 28.8888888889,
+        "lppi": 35.1111111111
+    },
+    "240": {
+        "city_name": "Colombo",
+        "coi": 33.2,
+        "ri": 10.3,
+        "coipri": 22.3,
+        "gi": 41.0,
+        "rpi": 18.9,
+        "lppi": 17.2
+    },
+    "241": {
+        "city_name": "Izmir",
+        "coi": 30.7,
+        "ri": 7.6,
+        "coipri": 19.8,
+        "gi": 27.2,
+        "rpi": 21.1,
+        "lppi": 35.7
+    },
+    "242": {
+        "city_name": "Manila",
+        "coi": 39.4,
+        "ri": 20.5,
+        "coipri": 30.5,
+        "gi": 38.9,
+        "rpi": 24.4,
+        "lppi": 23.9
+    },
+    "243": {
+        "city_name": "Tbilisi",
+        "coi": 34.0,
+        "ri": 15.1,
+        "coipri": 24.9,
+        "gi": 29.7,
+        "rpi": 33.2,
+        "lppi": 27.1
+    },
+    "244": {
+        "city_name": "Guangzhou",
+        "coi": 38.7,
+        "ri": 16.4,
+        "coipri": 27.9,
+        "gi": 41.4,
+        "rpi": 25.1,
+        "lppi": 68.3
+    },
+    "245": {
+        "city_name": "Oradea",
+        "coi": 36.375,
+        "ri": 7.25,
+        "coipri": 22.625,
+        "gi": 33.25,
+        "rpi": 32.0,
+        "lppi": 44.375
+    },
+    "246": {
+        "city_name": "Timisoara",
+        "coi": 36.2,
+        "ri": 9.9,
+        "coipri": 23.9,
+        "gi": 32.3,
+        "rpi": 32.1,
+        "lppi": 57.5
+    },
+    "247": {
+        "city_name": "Burgas",
+        "coi": 37.5555555556,
+        "ri": 8.1111111111,
+        "coipri": 23.6666666667,
+        "gi": 34.0,
+        "rpi": 33.5555555556,
+        "lppi": 43.2222222222
+    },
+    "248": {
+        "city_name": "Suva",
+        "coi": 37.4285714286,
+        "ri": 17.1428571429,
+        "coipri": 27.8571428571,
+        "gi": 40.0,
+        "rpi": 32.8571428571,
+        "lppi": 54.1428571429
+    },
+    "249": {
+        "city_name": "Guadalajara",
+        "coi": 37.4,
+        "ri": 14.7,
+        "coipri": 26.6,
+        "gi": 37.4,
+        "rpi": 34.3,
+        "lppi": 39.7
+    },
+    "250": {
+        "city_name": "Ankara",
+        "coi": 30.5,
+        "ri": 7.3,
+        "coipri": 19.6,
+        "gi": 27.2,
+        "rpi": 22.4,
+        "lppi": 39.7
+    },
+    "251": {
+        "city_name": "Buenos Aires",
+        "coi": 33.0,
+        "ri": 10.0,
+        "coipri": 21.9,
+        "gi": 27.7,
+        "rpi": 31.2,
+        "lppi": 32.5
+    },
+    "252": {
+        "city_name": "Johannesburg",
+        "coi": 40.9,
+        "ri": 13.7,
+        "coipri": 27.9,
+        "gi": 32.2,
+        "rpi": 36.7,
+        "lppi": 81.4
+    },
+    "253": {
+        "city_name": "Debrecen",
+        "coi": 39.2,
+        "ri": 10.5,
+        "coipri": 25.4,
+        "gi": 34.7,
+        "rpi": 32.0,
+        "lppi": 50.4
+    },
+    "254": {
+        "city_name": "Banja Luka",
+        "coi": 37.2,
+        "ri": 7.0,
+        "coipri": 23.0,
+        "gi": 32.5,
+        "rpi": 27.1,
+        "lppi": 39.6
+    },
+    "255": {
+        "city_name": "Iasi",
+        "coi": 36.6,
+        "ri": 9.6,
+        "coipri": 23.7,
+        "gi": 31.8,
+        "rpi": 31.7,
+        "lppi": 47.4
+    },
+    "256": {
+        "city_name": "Kuala Lumpur",
+        "coi": 38.0,
+        "ri": 12.7,
+        "coipri": 25.9,
+        "gi": 40.2,
+        "rpi": 24.7,
+        "lppi": 70.4
+    },
+    "257": {
+        "city_name": "Plovdiv",
+        "coi": 37.6,
+        "ri": 8.5,
+        "coipri": 23.5,
+        "gi": 34.2,
+        "rpi": 31.3,
+        "lppi": 49.3
+    },
+    "258": {
+        "city_name": "Hangzhou",
+        "coi": 40.125,
+        "ri": 15.125,
+        "coipri": 28.5,
+        "gi": 46.75,
+        "rpi": 27.0,
+        "lppi": 63.0
+    },
+    "259": {
+        "city_name": "Sarajevo",
+        "coi": 37.5,
+        "ri": 7.9,
+        "coipri": 23.5,
+        "gi": 32.3,
+        "rpi": 25.9,
+        "lppi": 50.2
+    },
+    "260": {
+        "city_name": "Pattaya",
+        "coi": 42.5555555556,
+        "ri": 13.8888888889,
+        "coipri": 29.1111111111,
+        "gi": 44.4444444444,
+        "rpi": 26.3333333333,
+        "lppi": 23.5555555556
+    },
+    "261": {
+        "city_name": "Puebla",
+        "coi": 35.3333333333,
+        "ri": 9.1666666667,
+        "coipri": 23.1666666667,
+        "gi": 34.3333333333,
+        "rpi": 27.8333333333,
+        "lppi": 37.8333333333
+    },
+    "262": {
+        "city_name": "Moscow",
+        "coi": 40.4,
+        "ri": 24.5,
+        "coipri": 32.8,
+        "gi": 32.3,
+        "rpi": 40.7,
+        "lppi": 54.4
+    },
+    "263": {
+        "city_name": "Sibiu",
+        "coi": 36.1,
+        "ri": 9.0,
+        "coipri": 23.2,
+        "gi": 32.0,
+        "rpi": 32.0,
+        "lppi": 49.3
+    },
+    "264": {
+        "city_name": "Ulaanbaatar",
+        "coi": 33.8,
+        "ri": 11.7,
+        "coipri": 23.0,
+        "gi": 35.4,
+        "rpi": 23.7,
+        "lppi": 24.9
+    },
+    "265": {
+        "city_name": "Chisinau",
+        "coi": 33.8,
+        "ri": 9.5,
+        "coipri": 22.3,
+        "gi": 27.7,
+        "rpi": 27.6,
+        "lppi": 33.0
+    },
+    "266": {
+        "city_name": "Quito",
+        "coi": 38.6,
+        "ri": 10.9,
+        "coipri": 25.7,
+        "gi": 36.8,
+        "rpi": 31.0,
+        "lppi": 32.4
+    },
+    "267": {
+        "city_name": "Erbil (Irbil)",
+        "coi": 37.2222222222,
+        "ri": 11.2222222222,
+        "coipri": 24.8888888889,
+        "gi": 31.5555555556,
+        "rpi": 29.8888888889,
+        "lppi": 40.0
+    },
+    "268": {
+        "city_name": "Cape Town",
+        "coi": 38.0,
+        "ri": 20.4,
+        "coipri": 29.7,
+        "gi": 32.0,
+        "rpi": 36.0,
+        "lppi": 75.3
+    },
+    "269": {
+        "city_name": "Skopje",
+        "coi": 35.1,
+        "ri": 7.6,
+        "coipri": 22.1,
+        "gi": 30.1,
+        "rpi": 26.6,
+        "lppi": 37.4
+    },
+    "270": {
+        "city_name": "Lima",
+        "coi": 36.4,
+        "ri": 14.0,
+        "coipri": 25.8,
+        "gi": 34.8,
+        "rpi": 25.7,
+        "lppi": 28.5
+    },
+    "271": {
+        "city_name": "Casablanca",
+        "coi": 35.1,
+        "ri": 12.0,
+        "coipri": 24.1,
+        "gi": 30.8,
+        "rpi": 26.5,
+        "lppi": 32.6
+    },
+    "272": {
+        "city_name": "Sao Paulo",
+        "coi": 39.3,
+        "ri": 14.3,
+        "coipri": 27.4,
+        "gi": 33.7,
+        "rpi": 33.7,
+        "lppi": 28.6
+    },
+    "273": {
+        "city_name": "Pretoria",
+        "coi": 39.3,
+        "ri": 12.0,
+        "coipri": 26.4,
+        "gi": 31.1,
+        "rpi": 32.7,
+        "lppi": 87.9
+    },
+    "274": {
+        "city_name": "Bursa",
+        "coi": 31.875,
+        "ri": 6.75,
+        "coipri": 19.75,
+        "gi": 28.125,
+        "rpi": 23.375,
+        "lppi": 39.25
+    },
+    "275": {
+        "city_name": "Nis",
+        "coi": 33.5,
+        "ri": 6.7,
+        "coipri": 20.7,
+        "gi": 27.7,
+        "rpi": 26.6,
+        "lppi": 40.0
+    },
+    "276": {
+        "city_name": "Accra",
+        "coi": 35.4444444444,
+        "ri": 18.1111111111,
+        "coipri": 27.4444444444,
+        "gi": 36.0,
+        "rpi": 28.2222222222,
+        "lppi": 16.1111111111
+    },
+    "277": {
+        "city_name": "Baku",
+        "coi": 31.7,
+        "ri": 9.6,
+        "coipri": 21.2,
+        "gi": 27.2,
+        "rpi": 31.1,
+        "lppi": 29.2
+    },
+    "278": {
+        "city_name": "Baghdad",
+        "coi": 35.4444444444,
+        "ri": 11.8888888889,
+        "coipri": 24.4444444444,
+        "gi": 29.3333333333,
+        "rpi": 28.8888888889,
+        "lppi": 36.5555555556
+    },
+    "279": {
+        "city_name": "Rabat",
+        "coi": 34.2,
+        "ri": 12.1,
+        "coipri": 23.8,
+        "gi": 30.9,
+        "rpi": 25.5,
+        "lppi": 34.1
+    },
+    "280": {
+        "city_name": "Lagos",
+        "coi": 32.2,
+        "ri": 33.2,
+        "coipri": 32.7,
+        "gi": 34.2,
+        "rpi": 25.5,
+        "lppi": 9.8
+    },
+    "281": {
+        "city_name": "Rio de Janeiro",
+        "coi": 37.6,
+        "ri": 11.7,
+        "coipri": 25.3,
+        "gi": 31.0,
+        "rpi": 29.5,
+        "lppi": 24.0
+    },
+    "282": {
+        "city_name": "Mersin",
+        "coi": 25.3333333333,
+        "ri": 7.6666666667,
+        "coipri": 17.0,
+        "gi": 24.0,
+        "rpi": 20.3333333333,
+        "lppi": 42.0
+    },
+    "283": {
+        "city_name": "Batumi",
+        "coi": 30.5,
+        "ri": 11.25,
+        "coipri": 21.5,
+        "gi": 31.75,
+        "rpi": 27.5,
+        "lppi": 29.25
+    },
+    "284": {
+        "city_name": "Nairobi",
+        "coi": 34.5,
+        "ri": 11.2,
+        "coipri": 23.5,
+        "gi": 32.6,
+        "rpi": 28.5,
+        "lppi": 27.7
+    },
+    "285": {
+        "city_name": "Durban",
+        "coi": 35.8,
+        "ri": 11.6,
+        "coipri": 24.5,
+        "gi": 28.9,
+        "rpi": 31.7,
+        "lppi": 71.7
+    },
+    "286": {
+        "city_name": "Chiang Mai",
+        "coi": 39.1,
+        "ri": 10.9,
+        "coipri": 25.8,
+        "gi": 44.2,
+        "rpi": 18.8,
+        "lppi": 35.0
+    },
+    "287": {
+        "city_name": "Brasilia",
+        "coi": 36.0,
+        "ri": 10.7777777778,
+        "coipri": 24.0,
+        "gi": 30.2222222222,
+        "rpi": 29.6666666667,
+        "lppi": 41.3333333333
+    },
+    "288": {
+        "city_name": "Almaty",
+        "coi": 31.5,
+        "ri": 13.8,
+        "coipri": 23.1,
+        "gi": 28.3,
+        "rpi": 29.2,
+        "lppi": 35.6
+    },
+    "289": {
+        "city_name": "Florianopolis",
+        "coi": 34.75,
+        "ri": 10.0,
+        "coipri": 23.25,
+        "gi": 28.75,
+        "rpi": 29.625,
+        "lppi": 32.875
+    },
+    "290": {
+        "city_name": "Wuhan",
+        "coi": 40.8,
+        "ri": 9.6,
+        "coipri": 26.0,
+        "gi": 48.2,
+        "rpi": 24.0,
+        "lppi": 52.2
+    },
+    "291": {
+        "city_name": "Saint Petersburg",
+        "coi": 43.9,
+        "ri": 23.9,
+        "coipri": 34.5,
+        "gi": 39.6,
+        "rpi": 39.9,
+        "lppi": 58.8
+    },
+    "292": {
+        "city_name": "Chengdu",
+        "coi": 38.6,
+        "ri": 10.2,
+        "coipri": 25.3,
+        "gi": 44.5,
+        "rpi": 23.4,
+        "lppi": 56.4
+    },
+    "293": {
+        "city_name": "Cuenca",
+        "coi": 34.5555555556,
+        "ri": 11.2222222222,
+        "coipri": 23.4444444444,
+        "gi": 32.5555555556,
+        "rpi": 25.8888888889,
+        "lppi": 31.1111111111
+    },
+    "294": {
+        "city_name": "Jakarta",
+        "coi": 37.9,
+        "ri": 15.6,
+        "coipri": 27.2,
+        "gi": 40.6,
+        "rpi": 21.2,
+        "lppi": 28.6
+    },
+    "295": {
+        "city_name": "Campinas",
+        "coi": 36.0,
+        "ri": 8.1666666667,
+        "coipri": 23.0,
+        "gi": 29.1666666667,
+        "rpi": 29.5,
+        "lppi": 38.6666666667
+    },
+    "296": {
+        "city_name": "Astana (Nur-Sultan)",
+        "coi": 31.7,
+        "ri": 10.6,
+        "coipri": 21.6,
+        "gi": 27.7,
+        "rpi": 30.6,
+        "lppi": 42.0
+    },
+    "297": {
+        "city_name": "Ho Chi Minh City",
+        "coi": 36.2,
+        "ri": 15.9,
+        "coipri": 26.6,
+        "gi": 37.1,
+        "rpi": 19.4,
+        "lppi": 28.5
+    },
+    "298": {
+        "city_name": "Porto Alegre",
+        "coi": 34.1111111111,
+        "ri": 8.4444444444,
+        "coipri": 21.8888888889,
+        "gi": 29.2222222222,
+        "rpi": 25.4444444444,
+        "lppi": 30.5555555556
+    },
+    "299": {
+        "city_name": "Fortaleza",
+        "coi": 33.4,
+        "ri": 6.0,
+        "coipri": 20.6,
+        "gi": 29.2,
+        "rpi": 25.0,
+        "lppi": 19.8
+    },
+    "300": {
+        "city_name": "Kiev (Kyiv)",
+        "coi": 32.8,
+        "ri": 14.7,
+        "coipri": 24.2,
+        "gi": 27.8,
+        "rpi": 28.6,
+        "lppi": 38.8
+    },
+    "301": {
+        "city_name": "Hanoi",
+        "coi": 34.9,
+        "ri": 11.0,
+        "coipri": 23.6,
+        "gi": 36.5,
+        "rpi": 18.0,
+        "lppi": 32.1
+    },
+    "302": {
+        "city_name": "Tunis",
+        "coi": 29.9,
+        "ri": 6.0,
+        "coipri": 18.5,
+        "gi": 29.2,
+        "rpi": 17.1,
+        "lppi": 26.3
+    },
+    "303": {
+        "city_name": "Belo Horizonte",
+        "coi": 33.6666666667,
+        "ri": 7.8888888889,
+        "coipri": 21.5555555556,
+        "gi": 27.5555555556,
+        "rpi": 24.8888888889,
+        "lppi": 24.6666666667
+    },
+    "304": {
+        "city_name": "Medellin",
+        "coi": 29.4,
+        "ri": 9.6,
+        "coipri": 19.9,
+        "gi": 27.1,
+        "rpi": 22.8,
+        "lppi": 28.9
+    },
+    "305": {
+        "city_name": "Tehran",
+        "coi": 33.5,
+        "ri": 17.9,
+        "coipri": 26.3,
+        "gi": 26.8,
+        "rpi": 23.6,
+        "lppi": 16.9
+    },
+    "306": {
+        "city_name": "Dar es Salaam",
+        "coi": 31.875,
+        "ri": 14.75,
+        "coipri": 23.625,
+        "gi": 28.75,
+        "rpi": 20.375,
+        "lppi": 16.75
+    },
+    "307": {
+        "city_name": "Vladivostok",
+        "coi": 36.4,
+        "ri": 13.0,
+        "coipri": 25.4,
+        "gi": 33.0,
+        "rpi": 32.8,
+        "lppi": 37.6
+    },
+    "308": {
+        "city_name": "Bishkek",
+        "coi": 27.0,
+        "ri": 9.1111111111,
+        "coipri": 18.5555555556,
+        "gi": 25.0,
+        "rpi": 21.8888888889,
+        "lppi": 23.6666666667
+    },
+    "309": {
+        "city_name": "Algiers",
+        "coi": 30.5,
+        "ri": 6.1,
+        "coipri": 18.8,
+        "gi": 32.9,
+        "rpi": 17.8,
+        "lppi": 24.4
+    },
+    "310": {
+        "city_name": "Dnipro",
+        "coi": 29.9,
+        "ri": 9.0,
+        "coipri": 19.9,
+        "gi": 24.6,
+        "rpi": 25.8,
+        "lppi": 32.7
+    },
+    "311": {
+        "city_name": "Curitiba",
+        "coi": 33.3333333333,
+        "ri": 7.6666666667,
+        "coipri": 21.1111111111,
+        "gi": 28.2222222222,
+        "rpi": 26.2222222222,
+        "lppi": 33.8888888889
+    },
+    "312": {
+        "city_name": "Sao Jose dos Campos",
+        "coi": 33.3333333333,
+        "ri": 8.6666666667,
+        "coipri": 21.3333333333,
+        "gi": 31.0,
+        "rpi": 26.0,
+        "lppi": 41.0
+    },
+    "313": {
+        "city_name": "Minsk",
+        "coi": 32.2,
+        "ri": 10.5,
+        "coipri": 22.0,
+        "gi": 27.7,
+        "rpi": 34.0,
+        "lppi": 37.5
+    },
+    "314": {
+        "city_name": "Bogota",
+        "coi": 29.5,
+        "ri": 11.0,
+        "coipri": 20.9,
+        "gi": 26.8,
+        "rpi": 22.0,
+        "lppi": 25.9
+    },
+    "315": {
+        "city_name": "Pristina",
+        "coi": 28.4,
+        "ri": 8.6,
+        "coipri": 18.8,
+        "gi": 25.8,
+        "rpi": 21.4,
+        "lppi": 43.8
+    },
+    "316": {
+        "city_name": "Mumbai",
+        "coi": 27.5,
+        "ri": 18.9,
+        "coipri": 23.5,
+        "gi": 27.2,
+        "rpi": 23.7,
+        "lppi": 50.2
+    },
+    "317": {
+        "city_name": "Cali",
+        "coi": 27.6,
+        "ri": 6.4,
+        "coipri": 17.5,
+        "gi": 25.5,
+        "rpi": 19.3,
+        "lppi": 33.6
+    },
+    "318": {
+        "city_name": "Yekaterinburg",
+        "coi": 34.0,
+        "ri": 10.2,
+        "coipri": 22.8,
+        "gi": 28.9,
+        "rpi": 29.9,
+        "lppi": 49.3
+    },
+    "319": {
+        "city_name": "Tashkent",
+        "coi": 27.8,
+        "ri": 11.0,
+        "coipri": 20.0,
+        "gi": 26.3,
+        "rpi": 23.5,
+        "lppi": 25.7
+    },
+    "320": {
+        "city_name": "Odessa (Odesa)",
+        "coi": 30.8,
+        "ri": 8.5,
+        "coipri": 20.3,
+        "gi": 26.4,
+        "rpi": 27.1,
+        "lppi": 31.7
+    },
+    "321": {
+        "city_name": "Samara",
+        "coi": 31.6,
+        "ri": 8.4,
+        "coipri": 20.4,
+        "gi": 25.6,
+        "rpi": 31.2,
+        "lppi": 35.4
+    },
+    "322": {
+        "city_name": "Nizhny Novgorod",
+        "coi": 33.5,
+        "ri": 9.2,
+        "coipri": 22.1,
+        "gi": 27.8,
+        "rpi": 33.1,
+        "lppi": 37.0
+    },
+    "323": {
+        "city_name": "Recife",
+        "coi": 32.3333333333,
+        "ri": 6.8333333333,
+        "coipri": 20.0,
+        "gi": 27.5,
+        "rpi": 23.3333333333,
+        "lppi": 33.1666666667
+    },
+    "324": {
+        "city_name": "Kazan",
+        "coi": 32.6,
+        "ri": 10.2,
+        "coipri": 22.1,
+        "gi": 28.0,
+        "rpi": 30.2,
+        "lppi": 37.2
+    },
+    "325": {
+        "city_name": "Krasnodar",
+        "coi": 32.1111111111,
+        "ri": 8.2222222222,
+        "coipri": 20.6666666667,
+        "gi": 26.5555555556,
+        "rpi": 32.8888888889,
+        "lppi": 38.5555555556
+    },
+    "326": {
+        "city_name": "Gurgaon",
+        "coi": 29.3,
+        "ri": 8.5,
+        "coipri": 19.5,
+        "gi": 29.4,
+        "rpi": 24.5,
+        "lppi": 91.2
+    },
+    "327": {
+        "city_name": "Novosibirsk",
+        "coi": 33.0,
+        "ri": 9.4,
+        "coipri": 22.0,
+        "gi": 28.9,
+        "rpi": 30.2,
+        "lppi": 37.4
+    },
+    "328": {
+        "city_name": "Ufa",
+        "coi": 30.2,
+        "ri": 7.4,
+        "coipri": 19.2,
+        "gi": 25.8,
+        "rpi": 29.2,
+        "lppi": 40.0
+    },
+    "329": {
+        "city_name": "Kathmandu",
+        "coi": 28.5,
+        "ri": 4.8,
+        "coipri": 17.3,
+        "gi": 26.5,
+        "rpi": 21.0,
+        "lppi": 20.4
+    },
+    "330": {
+        "city_name": "Kaliningrad",
+        "coi": 31.2857142857,
+        "ri": 7.0,
+        "coipri": 19.8571428571,
+        "gi": 27.0,
+        "rpi": 27.5714285714,
+        "lppi": 35.7142857143
+    },
+    "331": {
+        "city_name": "Kharkiv",
+        "coi": 29.5,
+        "ri": 9.5,
+        "coipri": 20.1,
+        "gi": 25.2,
+        "rpi": 23.3,
+        "lppi": 31.9
+    },
+    "332": {
+        "city_name": "Rostov-on-Don (Rostov-na-donu)",
+        "coi": 32.7142857143,
+        "ri": 8.2857142857,
+        "coipri": 21.2857142857,
+        "gi": 27.1428571429,
+        "rpi": 31.7142857143,
+        "lppi": 38.8571428571
+    },
+    "333": {
+        "city_name": "Lviv",
+        "coi": 29.2,
+        "ri": 10.6,
+        "coipri": 20.3,
+        "gi": 26.2,
+        "rpi": 22.5,
+        "lppi": 35.2
+    },
+    "334": {
+        "city_name": "Bangalore",
+        "coi": 26.9,
+        "ri": 8.4,
+        "coipri": 18.0,
+        "gi": 28.3,
+        "rpi": 20.2,
+        "lppi": 96.7
+    },
+    "335": {
+        "city_name": "Asuncion",
+        "coi": 29.6666666667,
+        "ri": 10.1111111111,
+        "coipri": 20.5555555556,
+        "gi": 24.7777777778,
+        "rpi": 23.7777777778,
+        "lppi": 29.2222222222
+    },
+    "336": {
+        "city_name": "Dhaka",
+        "coi": 31.1,
+        "ri": 4.5,
+        "coipri": 18.5,
+        "gi": 30.2,
+        "rpi": 19.5,
+        "lppi": 26.5
+    },
+    "337": {
+        "city_name": "Perm",
+        "coi": 29.6,
+        "ri": 7.4,
+        "coipri": 19.0,
+        "gi": 26.0,
+        "rpi": 27.2,
+        "lppi": 42.0
+    },
+    "338": {
+        "city_name": "Pune",
+        "coi": 25.3,
+        "ri": 6.5,
+        "coipri": 16.5,
+        "gi": 26.2,
+        "rpi": 21.0,
+        "lppi": 79.7
+    },
+    "339": {
+        "city_name": "Noida",
+        "coi": 27.2,
+        "ri": 5.3,
+        "coipri": 16.9,
+        "gi": 26.2,
+        "rpi": 22.8,
+        "lppi": 75.2
+    },
+    "340": {
+        "city_name": "Delhi",
+        "coi": 26.1,
+        "ri": 7.7,
+        "coipri": 17.6,
+        "gi": 24.9,
+        "rpi": 22.6,
+        "lppi": 61.5
+    },
+    "341": {
+        "city_name": "Ahmedabad",
+        "coi": 25.0,
+        "ri": 6.2,
+        "coipri": 15.9,
+        "gi": 26.7,
+        "rpi": 17.9,
+        "lppi": 41.9
+    },
+    "342": {
+        "city_name": "Hyderabad",
+        "coi": 25.0,
+        "ri": 6.0,
+        "coipri": 16.1,
+        "gi": 26.9,
+        "rpi": 17.7,
+        "lppi": 64.1
+    },
+    "343": {
+        "city_name": "Chelyabinsk",
+        "coi": 29.0,
+        "ri": 6.25,
+        "coipri": 18.5,
+        "gi": 25.75,
+        "rpi": 24.25,
+        "lppi": 41.25
+    },
+    "344": {
+        "city_name": "Chennai",
+        "coi": 23.9,
+        "ri": 5.7,
+        "coipri": 15.3,
+        "gi": 26.5,
+        "rpi": 15.5,
+        "lppi": 62.0
+    },
+    "345": {
+        "city_name": "Tripoli",
+        "coi": 23.6666666667,
+        "ri": 5.6666666667,
+        "coipri": 15.3333333333,
+        "gi": 23.3333333333,
+        "rpi": 21.0,
+        "lppi": 31.6666666667
+    },
+    "346": {
+        "city_name": "Chandigarh",
+        "coi": 27.0,
+        "ri": 5.2857142857,
+        "coipri": 16.7142857143,
+        "gi": 28.7142857143,
+        "rpi": 18.2857142857,
+        "lppi": 55.4285714286
+    },
+    "347": {
+        "city_name": "Vadodara",
+        "coi": 23.3333333333,
+        "ri": 3.3333333333,
+        "coipri": 14.1111111111,
+        "gi": 25.5555555556,
+        "rpi": 16.6666666667,
+        "lppi": 53.0
+    },
+    "348": {
+        "city_name": "Islamabad",
+        "coi": 20.6,
+        "ri": 5.1,
+        "coipri": 13.2,
+        "gi": 18.3,
+        "rpi": 16.2,
+        "lppi": 27.6
+    },
+    "349": {
+        "city_name": "Cairo",
+        "coi": 28.4,
+        "ri": 5.7,
+        "coipri": 17.7,
+        "gi": 25.2,
+        "rpi": 24.2,
+        "lppi": 20.4
+    },
+    "350": {
+        "city_name": "Bhubaneswar",
+        "coi": 22.2,
+        "ri": 3.3,
+        "coipri": 13.2,
+        "gi": 23.9,
+        "rpi": 13.7,
+        "lppi": 56.0
+    },
+    "351": {
+        "city_name": "Kolkata",
+        "coi": 23.5,
+        "ri": 4.6,
+        "coipri": 14.6,
+        "gi": 25.3,
+        "rpi": 17.3,
+        "lppi": 47.6
+    },
+    "352": {
+        "city_name": "Surat",
+        "coi": 23.2222222222,
+        "ri": 8.0,
+        "coipri": 16.0,
+        "gi": 25.5555555556,
+        "rpi": 16.6666666667,
+        "lppi": 40.1111111111
+    },
+    "353": {
+        "city_name": "Kochi",
+        "coi": 22.1,
+        "ri": 4.7,
+        "coipri": 14.2,
+        "gi": 25.0,
+        "rpi": 12.7,
+        "lppi": 60.2
+    },
+    "354": {
+        "city_name": "Jaipur",
+        "coi": 23.0,
+        "ri": 4.3,
+        "coipri": 14.3,
+        "gi": 23.1,
+        "rpi": 15.5,
+        "lppi": 55.7
+    },
+    "355": {
+        "city_name": "Bhopal",
+        "coi": 23.0,
+        "ri": 3.0,
+        "coipri": 13.4285714286,
+        "gi": 23.0,
+        "rpi": 17.0,
+        "lppi": 44.2857142857
+    },
+    "356": {
+        "city_name": "Indore",
+        "coi": 22.6666666667,
+        "ri": 3.7777777778,
+        "coipri": 13.7777777778,
+        "gi": 24.1111111111,
+        "rpi": 16.0,
+        "lppi": 50.4444444444
+    },
+    "357": {
+        "city_name": "Lucknow (Lakhnau)",
+        "coi": 22.4,
+        "ri": 4.3,
+        "coipri": 13.7,
+        "gi": 21.7,
+        "rpi": 16.3,
+        "lppi": 52.6
+    },
+    "358": {
+        "city_name": "Karachi",
+        "coi": 20.1,
+        "ri": 3.5,
+        "coipri": 12.0,
+        "gi": 17.8,
+        "rpi": 14.8,
+        "lppi": 25.3
+    },
+    "359": {
+        "city_name": "Lahore",
+        "coi": 20.5,
+        "ri": 3.6,
+        "coipri": 12.3,
+        "gi": 17.3,
+        "rpi": 16.7,
+        "lppi": 25.0
+    },
+    "360": {
+        "city_name": "Alexandria",
+        "coi": 24.9,
+        "ri": 4.5,
+        "coipri": 15.3,
+        "gi": 24.0,
+        "rpi": 20.3,
+        "lppi": 17.8
+    },
+    "361": {
+        "city_name": "Coimbatore",
+        "coi": 21.9,
+        "ri": 4.2,
+        "coipri": 13.6,
+        "gi": 24.9,
+        "rpi": 13.1,
+        "lppi": 47.1
+    }
+}
