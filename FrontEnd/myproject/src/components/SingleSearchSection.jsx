@@ -156,7 +156,7 @@ const SingleSearchSection = () => {
 
         if (a.includes(c)) {
             axios
-                .post('http://cost-of-living.onrender.com/base/post_city/', {
+                .post('https://cost-of-living-analyzer-global-insights.onrender.com//base/post_city/', {
                     city_name: searchInput,
                 })
                 .then((res) => {
@@ -256,7 +256,7 @@ const SingleSearchSection = () => {
                 });
         } else {
             axios
-                .post('http://cost-of-living.onrender.com/base/post_country/', {
+                .post('https://cost-of-living-analyzer-global-insights.onrender.com//base/post_country/', {
                     country_name: searchInput,
                 })
                 .then((res) => {
