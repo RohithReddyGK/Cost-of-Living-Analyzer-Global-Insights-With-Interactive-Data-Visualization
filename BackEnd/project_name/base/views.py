@@ -8,25 +8,25 @@ from django.http import JsonResponse
 import json
 
 # Create your views here.
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/current.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/current.json', 'r') as file:
     current_data = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/2023.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2023.json', 'r') as file:
     data_2023 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/2022.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2022.json', 'r') as file:
     data_2022 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/2021.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2021.json', 'r') as file:
     data_2021 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/2020.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/2020.json', 'r') as file:
     data_2020 = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/list_of_countries.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/list_of_countries.json', 'r') as file:
     country_city_mapping = json.load(file)
 
-with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/Django/JSON_files/country_details.json', 'r') as file:
+with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/country_details.json', 'r') as file:
     country_details = json.load(file)
 
 
