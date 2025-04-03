@@ -156,7 +156,7 @@ const SingleSearchSection = () => {
 
         if (a.includes(c)) {
             axios
-                .post('https://cost-of-living-analyzer-global-insights.onrender.com//base/post_city/', {
+                .post('https://cost-of-living-analyzer-global-insights.onrender.com/base/post_city/', {
                     city_name: searchInput,
                 })
                 .then((res) => {
