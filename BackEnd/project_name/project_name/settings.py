@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#$$vq7z55l0&6t4d#$yv*y_mgc)r90iu04_)dxr9hqfr_$+7po
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["cost-of-living.onrender.com"]
+ALLOWED_HOSTS = ["cost-of-living-analyzer-global-insights.onrender.com", "127.0.0.1"]
 
 # Application definition
 
@@ -52,6 +52,9 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+CORS_ALLOW_ALL_ORIGINS = True  # Allow frontend to access API
+CSRF_TRUSTED_ORIGINS = ["https://cost-of-living-analyzer-global-insights.onrender.com"]
 
 ROOT_URLCONF = 'project_name.urls'
 

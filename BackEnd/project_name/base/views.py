@@ -9,6 +9,9 @@ import json
 import os
 from django.views.decorators.csrf import csrf_exempt
 
+def home(request):
+    return JsonResponse({"message": "Welcome to Cost of Living Analyzer API!"})
+
 # Create your views here.
 # with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/current.json', 'r') as file:
 #     current_data = json.load(file)
