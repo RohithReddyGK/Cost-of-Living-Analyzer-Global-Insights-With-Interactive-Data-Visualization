@@ -156,9 +156,15 @@ const SingleSearchSection = () => {
 
         if (a.includes(c)) {
             axios
-                .post('https://cost-of-living-analyzer-global-insights.onrender.com/base/post_city/', {
-                    city_name: searchInput,
-                })
+                .post('https://cost-of-living-analyzer-global-insights.onrender.com/base/post_city/', 
+                    {city_name: searchInput},
+                    {
+                        headers: {
+                            "Content-Type": "application/json", // Must include this
+                            "Accept": "application/json"
+                        }
+                    }
+                )
                 .then((res) => {
                     setData(res.data); // Set the fetched data
 
@@ -256,9 +262,15 @@ const SingleSearchSection = () => {
                 });
         } else {
             axios
-                .post('https://cost-of-living-analyzer-global-insights.onrender.com//base/post_country/', {
-                    country_name: searchInput,
-                })
+                .post('https://cost-of-living-analyzer-global-insights.onrender.com//base/post_country/', 
+                    {country_name: searchInput},
+                    {
+                        headers: {
+                            "Content-Type": "application/json", // Django expects this
+                            "Accept": "application/json" // Optional but good practice
+                        }
+                    }
+                )
                 .then((res) => {
                     setData(res.data); // Set the fetched data
 
