@@ -7,6 +7,7 @@ from .serializer import CitySerializer
 from django.http import JsonResponse
 import json
 import os
+from django.views.decorators.csrf import csrf_exempt
 
 # Create your views here.
 # with open('D:/Cost Of Living Analyzer-Global Insights With Interactive Data Visualization/BackEnd/JSON_files/current.json', 'r') as file:
@@ -151,6 +152,7 @@ def get_country_details(request):
 
     return Response(result)
 
+@csrf_exempt
 @api_view(['POST'])
 def get_city_all_years(request):
     a=request.data
