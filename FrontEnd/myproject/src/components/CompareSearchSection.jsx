@@ -22,7 +22,7 @@ const CompareSearchSection = () => {
         if (formattedCities.every(city => Object.values(city_data).includes(city))) {
             // Handle search for both cities
             axios
-                .post('https://cost-of-living-analyzer-global-insights.onrender.com/base/compare_two_cities/', {
+                .post('http://127.0.0.1:8000/base/compare_two_cities/', {
                     city1_name: currentCity,
                     city2_name: compareCity,
                 })
@@ -66,7 +66,7 @@ const CompareSearchSection = () => {
         } else {
             // Handle search for countries if city names are not found
             axios
-                .post('https://cost-of-living-analyzer-global-insights.onrender.com/base/compare_two_cities/', {
+                .post('http://127.0.0.1:8000/base/compare_two_cities/', {
                     country1_name: currentCity,
                     country2_name: compareCity,
                 })
