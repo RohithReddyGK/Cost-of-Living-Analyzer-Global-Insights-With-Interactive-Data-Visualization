@@ -1,5 +1,13 @@
 # Cost of Living Analyzer: Global Insights with Interactive Data Visualization
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Frontend](https://img.shields.io/badge/frontend-React-blue)
+![Styling](https://img.shields.io/badge/styling-CSS-informational)
+![Backend](https://img.shields.io/badge/backend-Django-darkgreen)
+![API](https://img.shields.io/badge/API-REST-red)
+![Charting](https://img.shields.io/badge/charting-Chart.js-orange)
+
+
 ## 📌 Project Overview
 The **Cost of Living Analyzer** is a web-based application designed to help users compare the cost of living in different cities and countries worldwide. It provides **interactive visualizations** of key expense factors such as housing, transportation, food, utilities, and more.
 
