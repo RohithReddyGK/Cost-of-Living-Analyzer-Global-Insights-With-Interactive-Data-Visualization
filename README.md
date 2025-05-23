@@ -1,6 +1,5 @@
 # Cost of Living Analyzer: Global Insights with Interactive Data Visualization
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Frontend](https://img.shields.io/badge/frontend-React-blue)
 ![Styling](https://img.shields.io/badge/styling-CSS-informational)
 ![Backend](https://img.shields.io/badge/backend-Django-darkgreen)
