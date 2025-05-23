@@ -144,6 +144,6 @@ Want to contribute? Fork this repository and create a pull request with improvem
 
 ---
 
-### 🌟 **If you like this project, give it a ⭐ on GitHub!**
+### 🌟 **If you like this project, give it a ⭐ **
 
 
